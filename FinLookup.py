@@ -188,18 +188,18 @@ def update_price_figure(start_date, end_date, company_id):
     latest_style = {'textAlign': 'center', 'color': latest_color}
 
     filtered_df_price = df_price[(df_price.index >= start_date)
-                                 & (df_price.index <= end_date)]
+                                 & (df_price.index <= end_date)].copy()
 
     filtered_df_investors_buy_sell = df_investors_buy_sell[(df_investors_buy_sell.index >= start_date)
                                                            & (df_investors_buy_sell.index <= end_date)].copy()
+
+    filtered_df_margin_trading = df_margin_trading[(df_margin_trading.index >= start_date) & (
+            df_margin_trading.index <= end_date)].copy()
 
     filtered_df_investors_buy_sell.insert(
         2, "Net", filtered_df_investors_buy_sell.buy - filtered_df_investors_buy_sell.sell, True)
     filtered_df_investors_buy_sell = filtered_df_investors_buy_sell.groupby(
         filtered_df_investors_buy_sell.index).sum()
-
-    filtered_df_margin_trading = df_margin_trading[(df_margin_trading.index >= start_date) & (
-            df_margin_trading.index <= end_date)]
 
     fig = make_subplots(rows=4, cols=1,
                         shared_xaxes=True,
@@ -265,7 +265,7 @@ def update_price_figure(start_date, end_date, company_id):
         yanchor="bottom",
         y=1.02,
         xanchor="right",
-        x=1), margin=dict(l=20, r=50, t=50, b=20), showlegend=False, height=900)
+        x=1), margin=dict(l=20, r=50, t=50, b=20), showlegend=False, height=900, hovermode='x unified')
 
     return fig, 'From ' + str(start_date) + ' to ' + str(end_date), str(round(latest_price, 2)), str(
         latest_up_down), latest_style, latest_style, latest_date
@@ -323,7 +323,7 @@ def update_revenue_figure(start_date, end_date, company_id):
         yanchor="bottom",
         y=1.02,
         xanchor="right",
-        x=1), margin=dict(l=20, r=50, t=50, b=50), showlegend=False, height=450)
+        x=1), margin=dict(l=20, r=50, t=50, b=50), showlegend=False, height=450, hovermode='x unified')
 
     fig.update_yaxes(range=[filtered_df_revenue['revenue'].min(
     ) * 0.9, filtered_df_revenue['revenue'].max() * 1.1], row=1, col=1)
@@ -392,7 +392,7 @@ def update_financial_statements_figure(start_date, end_date, company_id):
         yanchor="bottom",
         y=1.02,
         xanchor="right",
-        x=1), margin=dict(l=20, r=50, t=50, b=50), height=450, showlegend=False)
+        x=1), margin=dict(l=20, r=50, t=50, b=50), height=450, showlegend=False, hovermode='x unified')
 
     table = df[df['date'] == df.iloc[-1].date]
 
@@ -444,16 +444,18 @@ def update_shareholding(start_date, end_date, company_id):
         filtered_df = df[(df.index >= datetime(year=datetime.strptime(end_date, "%Y-%m-%d").year - 5, month=1, day=1))
                          & (df.index <= end_date)]
 
-    fig = make_subplots(subplot_titles=("Foreign Investment Shares",))
+    fig = make_subplots(subplot_titles=("Foreign Investors' Shareholding",))
     fig.add_trace(go.Scatter(x=filtered_df.index, y=100 * filtered_df.ForeignInvestmentShares /
-                                                   filtered_df.NumberOfSharesIssued, name="Shares"))
-    fig.add_trace(go.Scatter(x=filtered_df.index, y=100 * filtered_df.NumberOfSharesIssued /
-                                                   filtered_df.NumberOfSharesIssued, name="Total"))
+                                                    filtered_df.NumberOfSharesIssued, name="Shares Held",
+                             fill='tozeroy'))
     fig.add_trace(go.Scatter(x=filtered_df.index, y=100 * (filtered_df.ForeignInvestmentShares +
-                                                          filtered_df.ForeignInvestmentRemainingShares) / filtered_df.NumberOfSharesIssued,
-                             name="Upper Limit"))
+                                                           filtered_df.ForeignInvestmentRemainingShares) / filtered_df.NumberOfSharesIssued,
+                             name="Upper Limit", fill='tonexty'))
+    fig.add_trace(go.Scatter(x=filtered_df.index, y=100 * filtered_df.NumberOfSharesIssued /
+                                                    filtered_df.NumberOfSharesIssued, name="Total"))
+
     fig.update_layout(margin=dict(l=20, r=50, t=50, b=50),
-                      showlegend=False, height=450)
+                      showlegend=False, height=450, hovermode='x unified')
 
     fig.update_yaxes(ticksuffix="%")
 
