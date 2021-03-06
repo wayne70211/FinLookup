@@ -291,6 +291,8 @@ def update_revenue_figure(start_date, end_date, company_id):
     df_revenue['YoY'] = (df_revenue.revenue /
                          df_revenue.revenue.shift(12) - 1) * 100
 
+    df_revenue = df_revenue.round({'YoY': 2, 'MoM': 2})
+
     if (datetime.strptime(end_date, "%Y-%m-%d") - datetime.strptime(start_date, "%Y-%m-%d")) > timedelta(days=365):
         filtered_df_revenue = df_revenue[
             (df_revenue.index >= start_date)
@@ -336,7 +338,7 @@ def update_revenue_figure(start_date, end_date, company_id):
 
     table.columns = ['Date', 'Revenue (M)', 'YoY (%)', 'MoM (%)']
 
-    table = table.round({'Revenue (M)': 1, 'YoY (%)': 2, 'MoM (%)': 2})
+    table = table.round({'Revenue (M)': 1})
 
     table = table.sort_values(by=['Date'], ascending=False)
 
@@ -375,8 +377,9 @@ def update_financial_statements_figure(start_date, end_date, company_id):
                         vertical_spacing=0.1,
                         subplot_titles=("EPS", "Gross Margin")
                         )
-    gross_margin = filtered_df[filtered_df['type'] == 'GrossProfit'].value * 100 / filtered_df[
-        filtered_df['type'] == 'Revenue'].value
+    gross_margin = round(filtered_df[filtered_df['type'] == 'GrossProfit'].value * 100 / filtered_df[
+        filtered_df['type'] == 'Revenue'].value, 2)
+
     latest_gross_margin = gross_margin[-1]
 
     fig.add_trace(go.Scatter(x=filtered_df[filtered_df['type'] == 'EPS'].index,
@@ -412,7 +415,7 @@ def update_financial_statements_figure(start_date, end_date, company_id):
     table = dbc.Table.from_dataframe(
         table, striped=True, bordered=False, hover=True, responsive=True)
 
-    return fig, table, str(latest_eps), str(round(latest_gross_margin, 1)) + "%"
+    return fig, table, str(latest_eps), str(latest_gross_margin) + "%"
 
 
 @app.callback(
@@ -445,14 +448,15 @@ def update_shareholding(start_date, end_date, company_id):
                          & (df.index <= end_date)]
 
     fig = make_subplots(subplot_titles=("Foreign Investors' Shareholding",))
-    fig.add_trace(go.Scatter(x=filtered_df.index, y=100 * filtered_df.ForeignInvestmentShares /
-                                                    filtered_df.NumberOfSharesIssued, name="Shares Held",
+    fig.add_trace(go.Scatter(x=filtered_df.index, y=round(100 * filtered_df.ForeignInvestmentShares /
+                                                          filtered_df.NumberOfSharesIssued, 2), name="Shares Held",
                              fill='tozeroy'))
-    fig.add_trace(go.Scatter(x=filtered_df.index, y=100 * (filtered_df.ForeignInvestmentShares +
-                                                           filtered_df.ForeignInvestmentRemainingShares) / filtered_df.NumberOfSharesIssued,
+    fig.add_trace(go.Scatter(x=filtered_df.index, y=round(100 * (filtered_df.ForeignInvestmentShares +
+                                                                 filtered_df.ForeignInvestmentRemainingShares) /
+                                                          filtered_df.NumberOfSharesIssued, 2),
                              name="Upper Limit", fill='tonexty'))
-    fig.add_trace(go.Scatter(x=filtered_df.index, y=100 * filtered_df.NumberOfSharesIssued /
-                                                    filtered_df.NumberOfSharesIssued, name="Total"))
+    fig.add_trace(go.Scatter(x=filtered_df.index, y=round(100 * filtered_df.NumberOfSharesIssued /
+                                                          filtered_df.NumberOfSharesIssued, 2), name="Total"))
 
     fig.update_layout(margin=dict(l=20, r=50, t=50, b=50),
                       showlegend=False, height=450, hovermode='x unified')
@@ -598,7 +602,7 @@ graph_view = html.Div([
                                    color="primary"),
                         dbc.Collapse(
                             dbc.Card(dbc.Table(id='Revenue-Table', style={'textAlign': 'right'}), body=True, style={
-                                'height': 350, 'overflowY': 'scroll'}), is_open=True, id='Revenue-Collapse')
+                                'height': 350, 'overflowY': 'auto'}), is_open=True, id='Revenue-Collapse')
                     ], label='Monthly Revenue'),
 
                     dbc.Tab([
@@ -611,7 +615,7 @@ graph_view = html.Div([
                                    color="primary"),
                         dbc.Collapse(dbc.Card(dbc.Table(id='Financial-Statements-Table', style={'textAlign': 'right'}),
                                               body=True, style={
-                                'height': 350, 'overflowY': 'scroll'}), is_open=True,
+                                'height': 350, 'overflowY': 'auto'}), is_open=True,
                                      id='Financial-Statements-Collapse'),
                     ], label='Income Statements'),
 
@@ -632,7 +636,7 @@ graph_view = html.Div([
                     dbc.Tab([
                         html.Br(),
                         dbc.Card(dbc.Table(id='News-Table'), body=False,
-                                 style={'height': 800, 'overflowY': 'scroll'})
+                                 style={'height': 800, 'overflowY': 'auto'})
                     ], label='News'),
 
                 ])
