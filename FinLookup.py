@@ -9,6 +9,7 @@ from plotly.subplots import make_subplots
 from datetime import datetime, date, timedelta
 import requests
 import dash
+import dash_auth
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output, State
@@ -37,10 +38,17 @@ def get_data_from_finmind(dataset, company_id, start_date, output_dir):
         "start_date": start_date,
         "token": API_TOKEN,
     }
-    resp = requests.get(url, params=parameter)
-    data = resp.json()
-    data = pd.DataFrame(data["data"])
-    data.to_csv(output_dir, index=False)
+    try:
+        resp = requests.get(url, params=parameter)
+        data = resp.json()
+        data = pd.DataFrame(data["data"])
+        data.to_csv(output_dir, index=False)
+    except:
+        error = "Read " + dataset + " Failed"
+    else:
+        error = None
+
+    return error
 
 
 def toggle_switch(n, is_open):
@@ -51,6 +59,9 @@ def toggle_switch(n, is_open):
 
 DATA_DIR = './Data/'
 API_TOKEN = ""
+VALID_USERNAME_PASSWORD_PAIRS = {
+    'user': '88888888'
+}
 
 stock_table = pd.read_json('StockTable.json')
 tw_dict = pd.Series(stock_table['公司簡稱'].values, stock_table['公司代號']).to_dict()
@@ -59,6 +70,11 @@ eng_dict = pd.Series(stock_table['英文簡稱'].values, stock_table['公司代�
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 
+# auth = dash_auth.BasicAuth(
+#     app,
+#     VALID_USERNAME_PASSWORD_PAIRS
+# )
+
 # Get Data
 
 @app.callback(
@@ -66,6 +82,8 @@ app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
     Output('Company-ID', 'data'),
     Output('Crawler-Alert', 'is_open'),
     Output('Online-Alert', 'is_open'),
+    Output('Error-Alert', 'is_open'),
+    Output('Error-Alert', 'children'),
     [Input("Data-Mode", "value"), Input("Dropdown-Company", "value")]
 )
 def get_data(online_mode, company_id):
@@ -74,51 +92,50 @@ def get_data(online_mode, company_id):
 
     dir_ = DATA_DIR + company_id + "/"
     alert = False
+    error = []
+
     for dirPath, dirNames, fileNames in os.walk(dir_):
         if company_id + '_Price.csv' not in fileNames or online_mode:
             alert = True
-            get_data_from_finmind("TaiwanStockPrice", company_id,
-                                  "2009-01-01", dir_ + company_id + '_Price.csv')
+            error.append(get_data_from_finmind("TaiwanStockPrice", company_id,
+                                               "2009-01-01", dir_ + company_id + '_Price.csv'))
 
         if company_id + '_Revenue.csv' not in fileNames or online_mode:
             alert = True
-            get_data_from_finmind("TaiwanStockMonthRevenue", company_id,
-                                  "2008-01-01", dir_ + company_id + '_Revenue.csv')
+            error.append(get_data_from_finmind("TaiwanStockMonthRevenue", company_id,
+                                               "2008-01-01", dir_ + company_id + '_Revenue.csv'))
 
         if company_id + '_Investors_Buy_Sell.csv' not in fileNames or online_mode:
             alert = True
-            get_data_from_finmind("TaiwanStockInstitutionalInvestorsBuySell", company_id,
-                                  "2008-01-01", dir_ + company_id + '_Investors_Buy_Sell.csv')
+            error.append(get_data_from_finmind("TaiwanStockInstitutionalInvestorsBuySell", company_id,
+                                               "2008-01-01", dir_ + company_id + '_Investors_Buy_Sell.csv'))
 
         if company_id + '_PER.csv' not in fileNames or online_mode:
             alert = True
-            get_data_from_finmind("TaiwanStockPER", company_id, (date.today(
-            ) - timedelta(days=90)).isoformat(), dir_ + company_id + '_PER.csv')
-
+            error.append(get_data_from_finmind("TaiwanStockPER", company_id, (date.today(
+            ) - timedelta(days=90)).isoformat(), dir_ + company_id + '_PER.csv'))
         if company_id + '_Financial_Statements.csv' not in fileNames or online_mode:
             alert = True
-            get_data_from_finmind("TaiwanStockFinancialStatements", company_id,
-                                  "2008-01-01", dir_ + company_id + '_Financial_Statements.csv')
-
+            error.append(get_data_from_finmind("TaiwanStockFinancialStatements", company_id,
+                                               "2008-01-01", dir_ + company_id + '_Financial_Statements.csv'))
         if company_id + '_Margin_Trading.csv' not in fileNames or online_mode:
             alert = True
-            get_data_from_finmind("TaiwanStockMarginPurchaseShortSale", company_id,
-                                  "2008-01-01", dir_ + company_id + '_Margin_Trading.csv')
-
+            error.append(get_data_from_finmind("TaiwanStockMarginPurchaseShortSale", company_id,
+                                               "2008-01-01", dir_ + company_id + '_Margin_Trading.csv'))
         if company_id + '_Shareholding.csv' not in fileNames or online_mode:
             alert = True
-            get_data_from_finmind("TaiwanStockShareholding", company_id,
-                                  "2008-01-01", dir_ + company_id + '_Shareholding.csv')
-
+            error.append(get_data_from_finmind("TaiwanStockShareholding", company_id,
+                                               "2008-01-01", dir_ + company_id + '_Shareholding.csv'))
         if company_id + '_News.csv' not in fileNames or online_mode:
             alert = True
-            get_data_from_finmind("TaiwanStockNews", company_id,
-                                  (date.today() - timedelta(days=20)).isoformat(), dir_ + company_id + '_News.csv')
-
+            error.append(get_data_from_finmind("TaiwanStockNews", company_id,
+                                               (date.today() - timedelta(days=20)).isoformat(),
+                                               dir_ + company_id + '_News.csv'))
     if online_mode:
         alert = False
 
-    return eng_dict[int(company_id)] + ' Information', company_id, alert, online_mode
+    return eng_dict[int(company_id)] + ' Information', company_id, alert, online_mode & (not any(error)), any(
+        error), ' <br>\r\n'.join(error)
 
 
 @app.callback(
@@ -284,6 +301,7 @@ def update_revenue_figure(start_date, end_date, company_id):
     dir_ = DATA_DIR + company_id + "/"
 
     df_revenue = pd.read_csv(dir_ + company_id + '_Revenue.csv')
+    df_revenue.date = df_revenue.date.copy().shift(1)
     df_revenue.index = pd.to_datetime(df_revenue['date'])
 
     df_revenue['MoM'] = (df_revenue.revenue /
@@ -338,7 +356,7 @@ def update_revenue_figure(start_date, end_date, company_id):
 
     table.columns = ['Date', 'Revenue (M)', 'YoY (%)', 'MoM (%)']
 
-    table = table.round({'Revenue (M)': 1})
+    table = table.round({'Revenue (M)': 2})
 
     table = table.sort_values(by=['Date'], ascending=False)
 
@@ -403,7 +421,7 @@ def update_financial_statements_figure(start_date, end_date, company_id):
 
     for row in table.iterrows():
         if row[1].type != 'EPS':
-            value.append(row[1].value / 1000000)
+            value.append(round(row[1].value / 1000000, 2))
         else:
             value.append(row[1].value)
 
@@ -603,7 +621,7 @@ graph_view = html.Div([
                         dbc.Collapse(
                             dbc.Card(dbc.Table(id='Revenue-Table', style={'textAlign': 'right'}), body=True, style={
                                 'height': 350, 'overflowY': 'auto'}), is_open=True, id='Revenue-Collapse')
-                    ], label='Monthly Revenue'),
+                    ], label='Revenue'),
 
                     dbc.Tab([
                         dbc.Spinner(color="primary",
@@ -706,14 +724,21 @@ app.layout = dbc.Container([
     info_view,
     graph_view,
     html.Br(),
-    dbc.Toast("The data is not in local, using Online Mode automatically.",
+    dbc.Toast(children="The data is not in local, using Online Mode automatically.",
               icon="danger",
               header="Offline Mode Failed",
               id="Crawler-Alert",
               is_open=False,
               dismissable=True,
               style={"position": "fixed", "top": 20, "right": 10, "width": 350}),
-    dbc.Toast("Get data from FinMind API Success",
+    dbc.Toast(children="Get data from FinMind API Failed.",
+              icon="danger",
+              header="Read Data Failed",
+              id="Error-Alert",
+              is_open=False,
+              dismissable=True,
+              style={"position": "fixed", "top": 20, "right": 10, "width": 350}),
+    dbc.Toast(children="Get data from FinMind API Success",
               icon="success",
               header="Online Mode",
               id="Online-Alert",
