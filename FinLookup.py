@@ -46,8 +46,7 @@ def get_data_from_finmind(dataset, company_id, start_date, output_dir):
     except:
         error = "Read " + dataset + " Failed"
     else:
-        error = None
-
+        error = ""
     return error
 
 
@@ -68,7 +67,7 @@ tw_dict = pd.Series(stock_table['公司簡稱'].values, stock_table['公司代�
 eng_dict = pd.Series(stock_table['英文簡稱'].values, stock_table['公司代號']).to_dict()
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
-
+server = app.server
 
 # auth = dash_auth.BasicAuth(
 #     app,
@@ -398,7 +397,7 @@ def update_financial_statements_figure(start_date, end_date, company_id):
     gross_margin = round(filtered_df[filtered_df['type'] == 'GrossProfit'].value * 100 / filtered_df[
         filtered_df['type'] == 'Revenue'].value, 2)
 
-    latest_gross_margin = gross_margin[-1]
+    latest_gross_margin = round(gross_margin[-1], 1)
 
     fig.add_trace(go.Scatter(x=filtered_df[filtered_df['type'] == 'EPS'].index,
                              y=filtered_df[filtered_df['type'] == 'EPS'].value, mode="lines+markers", name='EPS'),
@@ -750,5 +749,5 @@ app.layout = dbc.Container([
 
 # Run app and display result inline in the notebook
 if __name__ == '__main__':
-    # app.run_server(host='140.112.26.18', port=7788, debug=True)
+    # app.run_server(host='140.112.26.18', port=7788, debug=False)
     app.run_server(debug=True)
