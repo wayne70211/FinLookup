@@ -7,13 +7,16 @@ import plotly.graph_objs as go
 from pandas.errors import EmptyDataError
 from plotly.subplots import make_subplots
 from datetime import datetime, date, timedelta
+from wordcloud import WordCloud
 import requests
 import dash
-import dash_auth
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output, State
 import dash_bootstrap_components as dbc
+import plotly.express as px
+from io import BytesIO
+import base64
 
 
 def create_folder(directory):
@@ -68,6 +71,7 @@ eng_dict = pd.Series(stock_table['英文簡稱'].values, stock_table['公司代�
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 server = app.server
+
 
 # auth = dash_auth.BasicAuth(
 #     app,
@@ -484,6 +488,49 @@ def update_shareholding(start_date, end_date, company_id):
 
 
 @app.callback(
+    Output('News-Graph', 'figure'), Output("NLP-Button", "n_clicks"),
+    [Input("NLP-Button", "n_clicks"), Input('Company-ID', 'data')]
+)
+def update_nlp_news(n, company_id):
+    dir_ = DATA_DIR + company_id + "/"
+    if n % 2 == 1:
+        from NLP import TFIDF, get_news, clean, tokenize, to_list, NER_tokenize, tokenNER
+        df = get_news(company_id, dir_)
+        # df['Tokenized Title'] = df['title'].apply(tokenize)
+        # df['Tokenized Title'] = df['Tokenized Title'].apply(to_list)
+        # df['Tokenized Title'] = df['Tokenized Title'].apply(clean)
+        df['NER'] = df['title'].apply(NER_tokenize)
+        df['NER Content'] = df['NER'].apply(tokenNER)
+        df['NER Content'] = df['NER Content'].apply(clean)
+        df.to_pickle(dir_ + company_id + "_News_NER.pkl")
+        NER_document = [" ".join(content) for content in df['NER Content']]
+        df_tf, df_tfidf, df_sum_tfidf = TFIDF(NER_document, df)
+        # fig = Plot_freq(df_sum_tfidf)
+        font = './Font/SourceHanSansTW-Regular.otf'
+        word_cloud = WordCloud(background_color='white', font_path=font, width=800,
+                               height=400).generate_from_frequencies(frequencies=df_sum_tfidf.to_dict()['TF-IDF'])
+
+        # img = BytesIO()
+        # word_cloud.to_image().save(img, format='PNG')
+        # return 'data:image/png;base64,{}'.format(base64.b64encode(img.getvalue()).decode())
+        fig = px.imshow(word_cloud)
+
+    else:
+        layout = go.Layout(
+            paper_bgcolor='rgba(0,0,0,0)',
+            plot_bgcolor='rgba(0,0,0,0)'
+        )
+        fig = go.Figure(layout=layout)
+
+    fig.update_xaxes(showticklabels=False)
+    fig.update_yaxes(showticklabels=False)
+    fig.update_layout(margin=dict(l=20, r=50, t=50, b=50),
+                      showlegend=False)
+
+    return fig, n
+
+
+@app.callback(
     Output("Revenue-Collapse", "is_open"),
     [Input("Revenue-Collapse-Button", "n_clicks")],
     [State("Revenue-Collapse", "is_open")],
@@ -496,6 +543,15 @@ def toggle_collapse(n, is_open):
     Output("Financial-Statements-Collapse", "is_open"),
     [Input("Financial-Statements-Collapse-Button", "n_clicks")],
     [State("Financial-Statements-Collapse", "is_open")],
+)
+def toggle_collapse(n, is_open):
+    return toggle_switch(n, is_open)
+
+
+@app.callback(
+    Output("News-Collapse", "is_open"),
+    [Input("News-Collapse-Button", "n_clicks")],
+    [State("News-Collapse", "is_open")],
 )
 def toggle_collapse(n, is_open):
     return toggle_switch(n, is_open)
@@ -640,20 +696,36 @@ graph_view = html.Div([
                         dbc.Spinner(color="primary",
                                     children=[dcc.Graph(id='Shareholding-Graph')]),
                         html.Br(),
-                        # dbc.Button("Table",
-                        #            id="Financial-Statements-Collapse-Button",
-                        #            className="mb-4",
-                        #            color="primary"),
-                        # dbc.Collapse(dbc.Card(dbc.Table(id='Financial-Statements-Table', style={'textAlign': 'right'}),
-                        #                       body=True, style={
-                        #         'height': 350, 'overflowY': 'scroll'}), is_open=True,
-                        #              id='Financial-Statements-Collapse'),
                     ], label='Shareholding'),
 
                     dbc.Tab([
                         html.Br(),
-                        dbc.Card(dbc.Table(id='News-Table'), body=False,
-                                 style={'height': 800, 'overflowY': 'auto'})
+                        dbc.ButtonGroup(
+                            [dbc.Button("NLP Analysis",
+                                        id="NLP-Button",
+                                        color="primary",
+                                        n_clicks=0),
+                             dbc.Button("Table",
+                                        id="News-Collapse-Button",
+                                        color="primary"),
+                             ], className="mb-4"
+                        ),
+                        html.Br(),
+
+                        dbc.Collapse(dbc.Card(dbc.Table(id='News-Table'),
+                                              body=False, style={
+                                'height': 400, 'overflowY': 'auto'}), is_open=True,
+                                     id='News-Collapse'),
+
+                        dbc.Spinner(color="primary",
+                                    children=[dcc.Graph(id='News-Graph')]),
+
+                        #
+                        # dbc.Spinner(color="primary",
+                        #             children=[dcc.Graph(id='News-Graph')]),
+                        # html.Br(),
+                        # dbc.Card(dbc.Table(id='News-Table'), body=False,
+                        #          style={'height': 800, 'overflowY': 'auto'})
                     ], label='News'),
 
                 ])

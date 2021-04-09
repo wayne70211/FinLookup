@@ -1,125 +1,372 @@
 date,stock_id,link,source,title
-2021-02-16 08:00:00,2330,https://udn.com/news/story/7251/5252799,UDN 聯合新聞網,台股開紅盤焦點：台積電vs.富邦VIX - UDN 聯合新聞網
-2021-02-17 08:00:00,2330,https://money.udn.com/money/story/5612/5255372,經濟日報,前景佳！台積電5副總加碼買自家股 - 經濟日報
-2021-02-17 08:00:00,2330,https://ec.ltn.com.tw/article/breakingnews/3441149,自由財經,獨家》看好公司前景！台積電高階主管群紛加碼 - 自由財經
-2021-02-17 08:00:00,2330,https://udn.com/news/story/7251/5255384,UDN 聯合新聞網,美系外資牛年看好半導體 台積電、聯發科等六台廠入列 - UDN 聯合新聞網
-2021-02-17 08:00:00,2330,https://money.udn.com/money/story/12509/5254847,經濟日報,台積電（2330）1月營收1267.49億 年增22.25% - 經濟日報
-2021-02-18 08:00:00,2330,https://udn.com/news/story/7251/5257446,UDN 聯合新聞網,台股開盤漲4點 台積電開漲1元 - UDN 聯合新聞網
-2021-02-18 08:00:00,2330,https://money.udn.com/money/story/5612/5257490,經濟日報,美股ADR下挫 台積電、聯電早盤股價修正 - 經濟日報
-2021-02-18 08:00:00,2330,https://udn.com/news/story/7238/5258739,UDN 聯合新聞網,助籌設國家級半導體學院台積電高層親自出馬| 聯合新聞網：最懂你的新聞網站 - UDN 聯合新聞網
-2021-02-19 08:00:00,2330,https://money.udn.com/money/story/5612/5260526,經濟日報,台積電先進製程技術報喜 3奈米進度超前 - 經濟日報
-2021-02-20 08:00:00,2330,https://udn.com/news/story/7251/5263957,UDN 聯合新聞網,不只台積電！這檔台股ETF「女股神」成分股全買了 - UDN 聯合新聞網
-2021-02-20 08:00:00,2330,https://ec.ltn.com.tw/article/breakingnews/3444562,自由財經,年初至今外資賣超台積電逾20萬張 投信、自營商齊買進 - 自由財經
-2021-02-22 08:00:00,2330,https://udn.com/news/story/12806/5267007,UDN 聯合新聞網,小六社會教投資 她50萬全押台積電估賺20萬被封「少女股神」 - UDN 聯合新聞網
-2021-02-22 21:30:00,2330,https://ec.ltn.com.tw/article/paper/1432876,自由財經,台積電擴大投資化合物半導體 - 自由財經
-2021-02-23 02:41:39,2330,https://tw.stock.yahoo.com/news/%E7%9B%A4%E4%B8%AD%E8%A7%A3%E6%9E%90-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%87%89%E7%B6%A0-%E5%8F%B0%E8%82%A1%E5%9B%9E%E6%B8%AC5%E6%97%A5%E7%B7%9A-024139712.html,Yahoo奇摩股市,《盤中解析》台積電臉綠 台股回測5日線 - Yahoo奇摩股市
-2021-02-23 05:05:18,2330,https://money.udn.com/money/story/5612/5270245,經濟日報,台積電啟動水車載水 王美花：廠商要用最大力氣來節水 - 經濟日報
-2021-02-23 08:00:00,2330,https://ec.ltn.com.tw/article/paper/1432876,自由財經,台積電擴大投資化合物半導體 - 自由財經
-2021-02-23 08:00:00,2330,https://money.udn.com/money/story/5618/5271959,經濟日報,謝金河點出美國這件事 台積電股價面臨最大挑戰 - 經濟日報
-2021-02-23 08:00:00,2330,https://ec.ltn.com.tw/article/breakingnews/3447428,自由財經,台積電子公司檔檔高價 處分采鈺進帳91.2億元 - 自由財經
-2021-02-23 17:19:23,2330,https://udn.com/news/story/7240/5272229,UDN 聯合新聞網,半導體再添變數…台積電出動水車 確保產能 - UDN 聯合新聞網
-2021-02-23 23:30:00,2330,https://finance.ettoday.net/news/1925089,ETtoday,台積電分紅開獎！資深工程師狂領44個月、主任級一年光分紅就360萬元 - ETtoday
-2021-02-24 01:05:00,2330,https://fnc.ebc.net.tw/fncnews/stock/131529,EBC東森財經新聞,個股：配合采鈺上市案，台積電(2330)以每股240元出售采鈺3800萬股 - EBC東森財經新聞
-2021-02-24 08:00:00,2330,https://finance.ettoday.net/news/1925089,ETtoday,台積電分紅開獎！資深工程師狂領44個月、主任級一年光分紅就360萬元 - ETtoday
-2021-02-24 21:30:00,2330,https://ec.ltn.com.tw/article/paper/1433327,自由財經,Q2晶圓代工漲逾15% 台積電暫停對客戶報價 - 自由財經
-2021-02-25 03:37:06,2330,https://udn.com/news/story/7269/5275859,udn OOPS! 新鮮事,四大產業熱門公司薪資出爐 它擠下台積電稱霸半導體 - udn OOPS! 新鮮事
-2021-02-25 04:02:07,2330,https://udn.com/news/story/7240/5275936,UDN 聯合新聞網,美國倡議半導體聯盟 專家：台積電是龍頭目標 - UDN 聯合新聞網
-2021-02-25 04:10:08,2330,https://udn.com/news/story/7240/5275963,UDN 聯合新聞網,傳台積電停止報價 公司：不評論價格問題 - UDN 聯合新聞網
-2021-02-25 05:53:07,2330,https://udn.com/news/story/7251/5276318,UDN 聯合新聞網,"台積電止跌回穩 台股漲239點收16,452點、重回5日均線 - UDN 聯合新聞網"
-2021-02-25 06:47:11,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E9%B4%BB%E6%B5%B7%E5%8F%8A%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%8A%A9%E5%A8%81-%E5%A4%A7%E6%BC%B2239%E9%BB%9E%E6%94%B6%E5%BE%A95%E6%97%A5%E7%B7%9A-064711338.html,Yahoo奇摩股市,〈台股盤後〉鴻海及台積電助威 大漲239點收復5日線 - Yahoo奇摩股市
-2021-02-25 08:00:00,2330,https://ec.ltn.com.tw/article/paper/1433327,自由財經,Q2晶圓代工漲逾15% 台積電暫停對客戶報價 - 自由財經
-2021-02-25 16:00:00,2330,https://www.cw.com.tw/article/5108555,天下雜誌,四大產業熱門公司薪資出爐 它擠下台積電稱霸半導體｜運動生活｜生活｜2021-02-26｜經濟日報｜天下雜誌 - 天下雜誌
-2021-02-26 01:12:08,2330,https://udn.com/news/story/7251/5278518,udn OOPS! 新鮮事,台股開盤大跌262點 台積電跌24元 - udn OOPS! 新鮮事
-2021-02-26 01:15:21,2330,https://money.udn.com/money/story/5607/5278523?from=edn_stockmarket_index,經濟日報,"台積電611元開盤跌24元 市值縮水6,223億 - 經濟日報"
-2021-02-26 01:26:10,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr25%E6%97%A5%E4%B8%8B%E8%B7%8C6-30%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%854-76-%E6%8A%98%E5%8F%B0%E8%82%A1712-05%E5%85%83-012610465.html,Yahoo奇摩股市,台積電ADR25日下跌6.30美元跌幅4.76%折台股712.05元 - Yahoo奇摩股市
-2021-02-26 05:56:00,2330,https://finance.ettoday.net/news/1926751,ETtoday,「1張圖」曝台積電連環殺真相！主力割韭菜...GG山頂全「散戶冤魂」 - ETtoday
-2021-02-26 07:06:55,2330,https://ec.ltn.com.tw/article/breakingnews/3450372,自由財經,台積電差點失守6百元大關 下周是觀察重點 - 自由財經
-2021-02-26 08:00:00,2330,https://ec.ltn.com.tw/article/breakingnews/3450484,自由財經,台積電全球政策副總裁：鳳凰城逾65家半導體公司 建5奈米廠理想地點 - 自由財經
-2021-02-26 08:00:00,2330,https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85944%E5%84%84-%E8%B6%85%E9%81%8E%E9%87%91%E8%9E%8D%E6%B5%B7%E5%98%AF%E5%89%B5%E5%96%AE%E6%97%A5%E6%96%B0%E9%AB%98-%E5%8F%8B%E9%81%94-%E7%BE%A4%E5%89%B5-%E8%81%AF%E9%9B%BB-085543069.html,Yahoo奇摩股市,元宵變盤》外資賣超944億創單日歷史新高 護國神山台積電成提款機 - Yahoo奇摩股市
-2021-02-26 08:23:30,2330,https://ec.ltn.com.tw/article/breakingnews/3450451,自由財經,台積電將開全球之先 可望把再生水導入製程 - 自由財經
-2021-02-26 08:45:00,2330,https://ec.ltn.com.tw/article/breakingnews/3450484,自由財經,台積電全球政策副總裁：鳳凰城逾65家半導體公司 建5奈米廠理想地點 - 自由財經
-2021-02-26 08:55:43,2330,https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85944%E5%84%84-%E8%B6%85%E9%81%8E%E9%87%91%E8%9E%8D%E6%B5%B7%E5%98%AF%E5%89%B5%E5%96%AE%E6%97%A5%E6%96%B0%E9%AB%98-%E5%8F%8B%E9%81%94-%E7%BE%A4%E5%89%B5-%E8%81%AF%E9%9B%BB-085543069.html,Yahoo奇摩股市,元宵變盤》外資賣超944億創單日歷史新高 護國神山台積電成提款機 - Yahoo奇摩股市
-2021-02-26 09:09:20,2330,https://money.udn.com/money/story/12509/5279872,經濟日報,台積電（2330）第4季每股純益EPS5.5元 - 經濟日報
-2021-02-27 03:11:44,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr26%E6%97%A5%E4%B8%8B%E8%B7%8C0-06%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%850-05-%E6%8A%98%E5%8F%B0%E8%82%A1712-97%E5%85%83-031144904.html,Yahoo奇摩股市,台積電ADR26日下跌0.06美元跌幅0.05%折台股712.97元 - Yahoo奇摩股市
-2021-02-27 08:00:00,2330,https://ec.ltn.com.tw/article/paper/1433770,自由財經,再生水導入製程 台積電領先全球同業 - 自由財經
-2021-02-27 09:43:18,2330,https://money.udn.com/money/story/5599/5282147,經濟日報,科技股反彈、台積電ADR隨費半反攻 投資人不怕美債閃崩 - 經濟日報
-2021-02-28 06:01:00,2330,https://tw.appledaily.com/property/20210228/M4AT6XQJTJCTHMMH3AX75AGFTU/,台灣蘋果日報,台積電結構性調薪今年新進碩士生月薪逾5.7萬｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
-2021-02-28 13:29:17,2330,https://money.udn.com/money/story/5612/5284279?ref=tab20210228,經濟日報,台積電外派美國福利曝光 綠卡、新冠疫苗都有機會拿到 - 經濟日報
-2021-02-28 16:57:23,2330,https://money.udn.com/money/story/5612/5284669,經濟日報,台積電衝刺美國布局 要蓋六個廠 - 經濟日報
-2021-02-28 21:30:00,2330,https://ec.ltn.com.tw/article/paper/1434154,自由財經,〈財經週報-科技業豪賭〉台積電拚高成長 資本支出超越政府公建預算 - 自由財經
-2021-03-02 01:16:36,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%BC%B7%E5%8B%A2%E5%8F%8D%E5%BD%88%E9%80%BE300%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%AB%99%E5%9B%9E620%E5%85%83-011636026.html,Yahoo奇摩股市,台股強勢反彈逾300點 台積電站回620元 - Yahoo奇摩股市
-2021-03-02 01:21:08,2330,https://udn.com/news/story/7251/5287141,UDN 聯合新聞網,台積電621元開盤 上漲15元 市值重回16兆 - UDN 聯合新聞網
-2021-03-02 01:21:19,2330,https://money.udn.com/money/story/5607/5287141,經濟日報,台積電621元開盤、上漲15元 市值重回16兆 - 經濟日報
-2021-03-02 01:49:20,2330,https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E5%82%B5%E5%B8%82%E9%A2%A8%E6%9A%B4-%E9%A0%90%E6%BC%94-%E5%85%A8%E7%90%83%E5%B0%8F%E8%82%A1%E7%81%BD-%E8%AC%9D%E9%87%91%E6%B2%B3-%E5%BE%9E679%E6%AE%BA%E5%88%B0606%E7%9A%84%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%B1%E6%98%AF%E9%A1%AF%E8%91%97-014920990.html?bcmt=1,Yahoo奇摩股市,美國債市風暴「預演」全球小股災 謝金河:從679殺到606的台積電就是顯著「受害者」 - Yahoo奇摩股市
-2021-03-02 01:54:19,2330,https://money.udn.com/money/story/5612/5287203,經濟日報,台積電股價強彈16元 市值攀至16.12兆元 - 經濟日報
-2021-03-02 02:42:52,2330,https://tw.stock.yahoo.com/news/%E7%9B%A4%E4%B8%AD%E8%A7%A3%E6%9E%90-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E4%B8%8D%E5%A4%A0%E5%8A%9B-%E4%BA%94%E6%97%A5%E7%B7%9A%E6%B2%92%E7%AB%99%E7%A9%A9-024252095.html,Yahoo奇摩股市,《盤中解析》台積電不夠力 五日線沒站穩 - Yahoo奇摩股市
-2021-03-02 03:52:31,2330,https://www.businesstoday.com.tw/article/category/80401/post/202103020013/,今周刊,美股強彈、台股一度大漲300點！ 台積電、聯發科帶頭衝專家建議科技股「這樣操作」 - 今周刊
-2021-03-02 06:13:05,2330,https://tw.news.yahoo.com/%E7%BE%8E%E8%82%A1%E5%BC%B7%E5%BD%88-%E5%8F%B0%E8%82%A1-%E5%BA%A6%E5%A4%A7%E6%BC%B2300%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E8%81%AF%E7%99%BC%E7%A7%91%E5%B8%B6%E9%A0%AD%E8%A1%9D-061305060.html,Yahoo奇摩新聞,美股強彈、台股一度大漲300點！ 台積電、聯發科帶頭衝 專家建議科技股「這樣操作」 - Yahoo奇摩新聞
-2021-03-03 00:50:42,2330,https://tw.appledaily.com/property/20210303/NG7XS2EZ3RBCLA6LBJFB3H7RCM/,台灣蘋果日報,台積電等晶片廠掀擴產潮應材等設備供應商股價漲不停｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
-2021-03-03 01:45:10,2330,https://udn.com/news/story/7251/5290649,UDN 聯合新聞網,台積電早盤下探601元 9天市值大減1.6兆 - UDN 聯合新聞網
-2021-03-03 02:35:07,2330,https://udn.com/news/story/7251/5290749,UDN 聯合新聞網,美國半導體過度依賴台廠？法人：首選仍是台積電 - UDN 聯合新聞網
-2021-03-03 02:35:20,2330,https://money.udn.com/money/story/5612/5290749,經濟日報,美國半導體過度依賴台廠？法人：首選仍是台積電 - 經濟日報
-2021-03-03 02:45:31,2330,https://tw.stock.yahoo.com/news/%E5%8D%8A%E5%B0%8E%E9%AB%94-%E6%99%B6%E5%9C%93%E9%9B%99%E9%9B%84%E9%BD%8A%E8%90%BD%E9%9B%A3-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E8%81%AF%E9%9B%BB%E4%B8%8A%E6%BC%94600-50%E5%85%83%E4%BF%9D%E8%A1%9B%E6%88%B0-024531935.html,Yahoo奇摩股市,《半導體》晶圓雙雄齊落難 台積電、聯電上演600、50元保衛戰 - Yahoo奇摩股市
-2021-03-03 03:04:17,2330,https://udn.com/news/story/6839/5290809,UDN 聯合新聞網,台股一度漲300點！台積電、聯發科帶頭衝 專家建議科技股「這樣操作」 - UDN 聯合新聞網
-2021-03-03 03:48:55,2330,https://ctee.com.tw/news/stock/423672.html,工商時報,傳產撐盤、台積電翻紅台股奔回萬六 - 工商時報
-2021-03-03 04:10:30,2330,https://tw.appledaily.com/property/20210303/YU7FPQMOO5BGHPZGNS4F345ZY4/,台灣蘋果日報,台積電人氣爆棚！近1年零股股東激增近2倍中鋼股東破百萬最多｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
-2021-03-03 06:02:14,2330,https://money.udn.com/money/story/5607/5291446?from=edn_catehotlist_story,經濟日報,"台積電回神 台股漲264點收16,211點 - 經濟日報"
-2021-03-03 07:18:38,2330,https://tw.appledaily.com/property/20210303/NG7XS2EZ3RBCLA6LBJFB3H7RCM/,台灣蘋果日報,台積電等晶片廠掀擴產潮應材等設備供應商股價漲不停｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
-2021-03-03 07:57:40,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B7%8C%E8%90%BD679%E5%85%83%E5%BE%8C%E8%BB%9F%E8%B6%B4%E8%B6%B4-%E5%8E%9F%E4%BE%86%E8%B2%B7%E7%9B%A4%E8%BD%89%E9%80%B2%E5%8E%9F%E7%89%A9%E6%96%99-%E6%B3%95%E4%BA%BA%E9%BB%9E%E5%90%8D%E9%80%9916%E6%AA%94%E6%9C%89%E6%BC%B2%E5%83%B9%E9%A1%8C%E6%9D%90-075740345.html?bcmt=1,Yahoo奇摩股市,台積電跌落679元後軟趴趴 原來買盤轉進原物料 法人點名這16檔有漲價題材！ - Yahoo奇摩股市
-2021-03-03 08:40:40,2330,https://udn.com/news/story/7240/5291933,UDN 聯合新聞網,全日減壓供水 台積電、聯電部分廠區水車載水 - UDN 聯合新聞網
-2021-03-03 10:20:10,2330,https://udn.com/news/story/7253/5292198?from=udn-catebreaknews_ch2,UDN 聯合新聞網,"台積電收622元、市值16.12兆 外資仍賣超3,661張 - UDN 聯合新聞網"
-2021-03-03 12:20:10,2330,https://udn.com/news/story/7240/5292432,UDN 聯合新聞網,科學園區營業額再創紀錄 護國神山台積電貢獻逾四成 - UDN 聯合新聞網
-2021-03-03 12:20:22,2330,https://money.udn.com/money/story/5612/5292432,經濟日報,科學園區營業額再創紀錄 護國神山台積電貢獻逾四成 - 經濟日報
-2021-03-03 22:55:42,2330,https://tw.appledaily.com/property/20210303/YU7FPQMOO5BGHPZGNS4F345ZY4/,台灣蘋果日報,台積電人氣爆棚！近1年零股股東激增近2倍中鋼股東破百萬最多｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
-2021-03-04 01:10:27,2330,https://tw.news.yahoo.com/%E6%96%B0-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B7%8C%E9%80%BE2-%E5%8F%B0%E8%82%A1%E8%B7%8C160%E9%BB%9E-011027178.html,Yahoo奇摩新聞,新／台積電跌逾2% 台股跌160點 - Yahoo奇摩新聞
-2021-03-04 01:54:19,2330,https://money.udn.com/money/story/5612/5293293?from=edn_breaknewstab_index,經濟日報,台股早盤跌逾百點 台積電、聯電ADR下跌拖累 - 經濟日報
-2021-03-04 02:01:08,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr3%E6%97%A5%E4%B8%8B%E8%B7%8C3-11%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%852-47-%E6%8A%98%E5%8F%B0%E8%82%A1694-53%E5%85%83-020108014.html,Yahoo奇摩股市,台積電ADR3日下跌3.11美元跌幅2.47%折台股694.53元 - Yahoo奇摩股市
-2021-03-04 02:45:18,2330,https://money.udn.com/money/story/5612/5293416,經濟日報,"研調：台積電去年每片晶圓營收1,634美元 - 經濟日報"
-2021-03-04 02:53:08,2330,https://udn.com/news/story/7251/5293430,UDN 聯合新聞網,5G指數與台積電資本支出成長具高連動 可逢回布局機會 - UDN 聯合新聞網
-2021-03-04 02:53:19,2330,https://money.udn.com/money/story/5607/5293430,經濟日報,5G指數與台積電資本支出成長具高連動 可逢回布局機會 - 經濟日報
-2021-03-04 02:55:30,2330,https://money.udn.com/money/story/12972/5293382,經濟日報,台積電600大關的操作術法人獻計兩條路| 投資理財| 會員專區| 經濟日報- 經濟日報 - 經濟日報
-2021-03-04 03:42:27,2330,https://www.chinatimes.com/realtimenews/20210304002256-260410,中時新聞網 Chinatimes.com,《科技》台積電領先製程 每片晶圓收入居冠 - 中時新聞網 Chinatimes.com
-2021-03-04 04:27:45,2330,https://news.cnyes.com/news/id/4572620,Anue鉅亨,台積電去年每片晶圓營收1634美元 較聯電高出1.42倍 - Anue鉅亨
-2021-03-04 04:49:08,2330,https://udn.com/news/story/7251/5293813,UDN 聯合新聞網,張錫：台積電今年股價一定過700元 上看800元 - UDN 聯合新聞網
-2021-03-04 04:49:22,2330,https://money.udn.com/money/story/5607/5293813?from=edn_hotlist_index,經濟日報,張錫：台積電今年股價一定過700元 上看800元 - 經濟日報
-2021-03-04 05:50:34,2330,https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%A0%98%E8%B7%8C-%E5%8F%B0%E8%82%A1%E6%AE%BA305%E9%BB%9E%E5%A4%B1%E5%AE%88%E8%90%AC%E5%85%AD-055034622.html,Yahoo奇摩新聞,台積電領跌 台股殺305點失守萬六 - Yahoo奇摩新聞
-2021-03-04 05:54:12,2330,https://tw.stock.yahoo.com/news/%E5%BC%B5%E9%8C%AB-%E5%8F%B0%E8%82%A1%E5%9F%BA%E6%9C%AC%E9%9D%A2%E9%9D%9E%E5%B8%B8%E5%A5%BD-%E9%95%B7%E6%9C%9F%E7%9C%8B%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%BE%88%E4%BE%BF%E5%AE%9C-055412373.html,Yahoo奇摩股市,張錫：台股基本面非常好 長期看台積電很便宜 - Yahoo奇摩股市
-2021-03-04 05:54:12,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E5%A4%A7%E8%B7%8C305%E9%BB%9E%E4%B8%89%E5%BA%A6%E8%B7%8C%E7%A0%B4%E8%90%AC%E5%85%AD-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%89%B5%E7%89%9B%E5%B9%B4%E6%94%B6%E7%9B%A4%E6%96%B0%E4%BD%8E-055412213.html,Yahoo奇摩股市,【台股盤後】大跌305點三度跌破萬六 台積電創牛年收盤新低 - Yahoo奇摩股市
-2021-03-04 08:02:09,2330,https://udn.com/news/story/7240/5294514,MISC,投資台積電等全球龍頭ADR 永豐金證教新招 - MISC
-2021-03-04 09:30:00,2330,https://www.ettoday.net/news/20210304/1931146.htm,ETtoday,大媽All in台積電「困在650」尷尬了...股民曝1招解：還要我教？ - ETtoday
-2021-03-04 09:56:08,2330,https://udn.com/news/story/7251/5294874,UDN 聯合新聞網,外資狂賣超525億 聯電、台積電合計遭倒貨逾12.6萬張 - UDN 聯合新聞網
-2021-03-04 10:12:00,2330,https://finance.ettoday.net/news/1931176,ETtoday,才剛爆發小股災！ 謝金河曝：台積電是「美債風暴」最大受害者 - ETtoday
-2021-03-04 11:22:12,2330,https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E8%B3%A3%E8%B6%85525-15%E5%84%84%E5%8F%B2%E4%B8%8A%E7%AC%AC5%E5%A4%A7-%E8%AA%BF%E7%AF%80%E8%81%AF%E9%9B%BB-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%9C%80%E5%A4%9A-112212149.html?bcmt=1,Yahoo奇摩理財,外資賣超525.15億史上第5大 調節聯電、台積電最多 - Yahoo奇摩理財
-2021-03-04 17:06:48,2330,https://money.udn.com/money/story/5607/5295801,經濟日報,台積電將上800元？謝金河：今年台股行情恐怕不會這麼平順 - 經濟日報
-2021-03-04 18:00:56,2330,https://udn.com/news/story/7240/5295638,UDN 聯合新聞網,"台積電每片晶圓均價1,634美元 創歷史新高 - UDN 聯合新聞網"
-2021-03-04 22:58:18,2330,https://money.udn.com/money/story/5599/5295891,經濟日報,台積電ADR重挫5.9%甚於費半 溢價急縮至7% - 經濟日報
-2021-03-05 00:03:19,2330,https://money.udn.com/money/story/5599/5295913,經濟日報,台積電大客戶博通上季晶片銷售略低於所料 盤後再挫2% - 經濟日報
-2021-03-05 00:56:18,2330,https://money.udn.com/money/story/12926/5295950,經濟日報,台積電大客戶博通上季晶片銷售略低於所料盤後再挫2% | 今晨必讀| 會員專區| 經濟日報 - 經濟日報
-2021-03-05 01:09:18,2330,https://money.udn.com/money/story/5607/5295970?from=edn_stockmarket_index,經濟日報,台積電開跌13元 台股開盤跌146點 - 經濟日報
-2021-03-05 01:33:07,2330,https://udn.com/news/story/7251/5296008,udn OOPS! 新鮮事,"台積電跌破600元 早盤挫低至584元 市值急縮4,408億！ - udn OOPS! 新鮮事"
-2021-03-05 01:55:06,2330,https://www.chinatimes.com/realtimenews/20210305001534-260410,中時新聞網 Chinatimes.com,台積電失守600元關卡 台股早盤跌逾200點 - 中時新聞網 Chinatimes.com
-2021-03-05 01:56:29,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr4%E6%97%A5%E4%B8%8B%E8%B7%8C7-30%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%855-94-%E6%8A%98%E5%8F%B0%E8%82%A1653-45%E5%85%83-015629138.html?bcmt=1,Yahoo奇摩理財,台積電ADR4日下跌7.30美元跌幅5.94%折台股653.45元 - Yahoo奇摩理財
-2021-03-05 02:24:37,2330,https://tw.stock.yahoo.com/news/%E7%86%B1%E9%96%80%E6%97%8F%E7%BE%A4-%E9%9B%A3%E5%85%84%E9%9B%A3%E5%BC%9F-%E8%81%AF%E9%9B%BBbye%E4%BA%8650%E9%97%9C-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E4%B9%9F%E5%88%A5%E4%BA%86600%E9%97%9C-022437605.html,Yahoo奇摩股市,《熱門族群》難兄難弟 聯電Bye了50關、台積電也別了600關 - Yahoo奇摩股市
-2021-03-05 02:48:07,2330,https://udn.com/news/story/12806/5296141?from=udn-ch1_breaknews-1-0-news,UDN 聯合新聞網,台積電失守600元震撼投資人 後市該買？該賣？ - UDN 聯合新聞網
-2021-03-05 03:51:06,2330,https://udn.com/news/story/6811/5296323?from=udn-catelistnews_ch2,UDN 聯合新聞網,晶片短缺要怪台積電？ 美台商會會長抱屈 - UDN 聯合新聞網
-2021-03-05 04:27:21,2330,https://money.udn.com/money/story/5612/5296420?from=edn_catehotlist_story,經濟日報,"台積電今年將徵近9,000名新人 校園徵才啟動 - 經濟日報"
-2021-03-05 04:47:50,2330,https://tw.appledaily.com/property/20210305/WGJFIFDSNRCWHJMMQEHCSDJCDQ/,台灣蘋果日報,基板短缺傷半導體業！ 台積電大客戶博通Q1財報遜色｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
-2021-03-05 05:22:23,2330,https://money.udn.com/money/story/5612/5296608,經濟日報,"台積電為因應技術開發需求 預計招募近9,000名新進同仁 - 經濟日報"
-2021-03-05 05:45:13,2330,https://tw.stock.yahoo.com/news/%E5%92%8C%E6%B3%B0%E8%BB%8A%E3%80%81%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%82%A1%E5%83%B9%E4%B8%8D%E7%9B%B8%E4%B8%8A%E4%B8%8B-%E6%88%91%E5%80%91%E8%A9%B2%E6%80%8E%E9%BA%BC%E9%81%B8%EF%BC%9F-054513326.html,Yahoo奇摩股市,和泰車、台積電股價不相上下 我們該怎麼選？ - Yahoo奇摩股市
-2021-03-05 05:55:08,2330,https://udn.com/news/story/7251/5296698?from=udn-catelistnews_ch2,UDN 聯合新聞網,"台積電守住600關！ 台股跌15,855點、下跌51點 - UDN 聯合新聞網"
-2021-03-05 07:24:00,2330,https://www.businesstoday.com.tw/article/category/183034/post/202103050017/,今周刊,台積電今年招兵9000人！ 土木、心理、財會科系畢業生「全都要」 具備這兩條件特佳 - 今周刊
-2021-03-05 07:46:45,2330,https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%A0%A1%E5%9C%92%E5%BE%B5%E6%89%8D-%E6%8B%9B%E5%8B%9F9%E5%8D%83%E4%BA%BA-%E8%B5%B7%E8%96%AA%E5%B9%B4%E5%A2%9E20-074645906.html,Yahoo奇摩新聞,台積電校園徵才!招募9千人 起薪年增20% - Yahoo奇摩新聞
-2021-03-05 08:19:12,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E9%87%8D%E6%8C%AB%E8%BF%916-%E8%B7%8C%E5%B9%85%E5%A4%A7%E9%81%8E%E8%B2%BB%E5%8D%8A-%E7%BE%8E%E8%82%A1%E6%8B%8B%E5%94%AE%E6%BD%AE%E6%81%90%E7%B9%BC%E7%BA%8C%E6%8B%96%E7%B4%AF%E5%8F%B0%E8%82%A1-%E8%8B%A5%E7%84%A1%E6%B3%95%E6%94%B6%E5%BE%A9-%E9%80%99%E9%BB%9E%E4%BD%8D-081912806.html?bcmt=1,Yahoo奇摩股市,台積電ADR重挫近6％、跌幅大過費半…美股拋售潮恐繼續拖累台股？若無法收復「這點位」投資人就得當心 - Yahoo奇摩股市
-2021-03-05 08:47:08,2330,https://udn.com/news/story/7251/5297263?from=udn-ch1_breaknews-1-0-news,UDN 聯合新聞網,新聞解析／台積電愈跌 小資族愈愛買 - UDN 聯合新聞網
-2021-03-05 19:26:59,2330,https://udn.com/news/story/7240/5298079?from=udn-catelistnews_ch2,UDN 聯合新聞網,台積電也喊找不到人 學歷要求放寬積極攬才 - UDN 聯合新聞網
-2021-03-05 21:30:00,2330,https://ec.ltn.com.tw/article/paper/1435236,自由財經,台積電今年徵9千人 碩士畢年薪176萬 - 自由財經
-2021-03-05 22:21:00,2330,https://tw.appledaily.com/property/20210305/WGJFIFDSNRCWHJMMQEHCSDJCDQ/,台灣蘋果日報,基板短缺傷半導體業！ 台積電大客戶博通Q1財報遜色｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
-2021-03-06 00:22:34,2330,https://ec.ltn.com.tw/article/breakingnews/3457917,自由財經,產能供不應求 業界估台積電Q2營收仍呈高檔走勢 - 自由財經
-2021-03-07 00:05:00,2330,https://finance.ettoday.net/news/1932682,ETtoday,台積電、蘋果、輝達等材料檢測都靠它 閎康億元級實驗室曝光 - ETtoday
-2021-03-07 03:16:03,2330,https://ec.ltn.com.tw/article/breakingnews/3458842,自由財經,台積電ADR強彈4.51％ 台股明日多頭可望歸隊 - 自由財經
-2021-03-07 06:42:20,2330,https://money.udn.com/money/story/5607/5300722,經濟日報,台積電效應！200萬人瘋台股ETF 00881將超越0056 - 經濟日報
-2021-03-07 06:48:39,2330,https://tw.appledaily.com/property/20210307/V3DKHS5PLNCV7FT7ITEFLEVW7I/,台灣蘋果日報,這顆蘋果很補台積電全吃去年進帳逾3367億元佔最大客戶｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
-2021-03-07 10:52:34,2330,https://news.cnyes.com/news/id/4605958,Anue鉅亨,台積電財報揭露 蘋果去年營收貢獻大增36% - Anue鉅亨
-2021-03-07 17:08:15,2330,https://money.udn.com/money/story/5607/5301536?from=edn_catenewest_story,經濟日報,台積電股東 衝上90萬大關 - 經濟日報
-2021-03-08 02:05:00,2330,https://fnc.ebc.net.tw/fncnews/stock/131825,EBC東森財經新聞,個股：台積電(2330)打破非台清交成不用的慣例，廣納人才，起薪4萬8與5萬6 - EBC東森財經新聞
-2021-03-08 04:59:34,2330,https://tw.news.yahoo.com/%E9%82%84%E5%9C%A8%E8%BF%BD%E8%B2%B7%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E8%81%AF%E9%9B%BB-%E8%AC%9D%E9%87%91%E6%B2%B3%E9%BB%9E%E5%90%8D%E7%9C%8B%E5%A5%BD%E9%87%91%E8%9E%8D%E8%82%A1-%E5%8E%9F%E7%89%A9%E6%96%99%E6%97%8F%E7%BE%A4-%E5%8F%AF%E8%83%BD%E6%BC%B2-045934804.html,Yahoo奇摩新聞,還在追買台積電、聯電？ 謝金河點名看好金融股、原物料族群 「可能漲一倍以上！」 - Yahoo奇摩新聞
+2021-03-20 03:57:07,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B2%BC%E6%81%AF-%E8%82%A1%E6%9D%B1%E4%BA%BA%E6%95%B894%E8%90%AC6692%E4%BA%BA%E5%86%8D%E5%89%B5%E6%96%B0%E9%AB%98-035707397.html,Yahoo奇摩股市,台積電貼息 股東人數94萬6692人再創新高 - Yahoo奇摩股市
+2021-03-20 07:00:00,2330,https://udn.com/news/story/7251/5331356,UDN 聯合新聞網,台積電除息行情失靈 股東人數卻攀94.6萬人創高 - UDN 聯合新聞網
+2021-03-20 07:00:00,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B2%BC%E6%81%AF-%E8%82%A1%E6%9D%B1%E4%BA%BA%E6%95%B894%E8%90%AC6692%E4%BA%BA%E5%86%8D%E5%89%B5%E6%96%B0%E9%AB%98-035707397.html,Yahoo奇摩股市,台積電貼息 股東人數94萬6692人再創新高 - Yahoo奇摩股市
+2021-03-20 07:00:00,2330,https://udn.com/news/story/7251/5331356,UDN 聯合新聞網,台積電除息行情失靈股東人數卻攀94.6萬人創高| 聯合新聞網：最懂你的新聞網站 - UDN 聯合新聞網
+2021-03-21 01:02:14,2330,https://ec.ltn.com.tw/article/breakingnews/3473866,自由財經,股民心聲》外資要撤了 台積電、聯電該如何？ - 自由財經
+2021-03-21 03:02:15,2330,https://ctee.com.tw/news/tech/433025.html,工商時報,台積電先進製程領頭先進封裝後市看好 - 工商時報
+2021-03-21 07:00:00,2330,https://ec.ltn.com.tw/article/breakingnews/3473866,自由財經,股民心聲》外資要撤了 台積電、聯電該如何？ - 自由財經
+2021-03-21 07:00:00,2330,https://money.udn.com/money/story/5618/5333526,經濟日報,台積電股利只發現金 看懂為何企業股東都瘋配息 - 經濟日報
+2021-03-21 08:54:22,2330,https://money.udn.com/money/story/5618/5333526,經濟日報,台積電股利只發現金 看懂為何企業股東都瘋配息 - 經濟日報
+2021-03-21 11:10:21,2330,https://money.udn.com/money/story/5599/5333664,經濟日報,日本成功爭取台積電設立研發中心 盼振興半導體產業 - 經濟日報
+2021-03-21 17:28:28,2330,https://money.udn.com/money/story/121852/5333929,經濟日報,91APP要當電商界台積電做數位轉型解決方案軍火庫| 產業動態| 會員專區| 經濟日報 - 經濟日報
+2021-03-22 00:30:00,2330,https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=6e04d979-1943-40db-a1c0-d23d2695f011,MoneyDJ理財網,台積電發行211億元公司債，用於擴建廠房設備- 新聞 - MoneyDJ理財網
+2021-03-22 01:15:38,2330,https://tw.news.yahoo.com/%E6%96%B0-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B7%8C3%E5%85%83-%E5%8F%B0%E8%82%A1%E8%90%AC%E5%85%AD%E4%BF%9D%E8%A1%9B%E6%88%B0-011538250.html,Yahoo奇摩新聞,新／台積電跌3元 台股萬六保衛戰 - Yahoo奇摩新聞
+2021-03-22 01:15:43,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%82%A1%E5%83%B9%E9%96%8B%E7%9B%A4%E8%B7%8C3%E5%85%83-%E5%8F%B0%E8%82%A1%E5%B9%B3%E7%9B%A4%E9%9C%87%E7%9B%AA-011543310.html,Yahoo奇摩股市,台積電股價開盤跌3元 台股平盤震盪 - Yahoo奇摩股市
+2021-03-22 01:42:22,2330,https://money.udn.com/money/story/11112/5334349,經濟日報,台積電盤中跌破季線 台指期曾下殺破萬六關卡 - 經濟日報
+2021-03-22 01:54:09,2330,https://udn.com/news/story/7253/5334361?from=udn-catelistnews_ch2,UDN 聯合新聞網,台積電遭外資狂倒貨 早盤588元開盤、季線失守 - UDN 聯合新聞網
+2021-03-22 01:54:20,2330,https://money.udn.com/money/story/5613/5334361,經濟日報,台積電遭外資狂倒貨 早盤588元開盤、季線失守 - 經濟日報
+2021-03-22 03:12:31,2330,https://tw.stock.yahoo.com/news/%E5%8D%8A%E5%B0%8E%E9%AB%94-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%96%8B%E4%BD%8E%E7%BF%BB%E7%B4%85-%E4%BB%8D%E8%B2%BC%E6%81%AF-031231088.html,Yahoo奇摩股市,《半導體》台積電開低翻紅 仍貼息 - Yahoo奇摩股市
+2021-03-22 03:23:33,2330,https://money.udn.com/money/story/12937/5334572,經濟日報,【Bloomberg】水荒之外電價恐飆漲25%？台積電等大廠面臨獲利絆腳石| 外媒解析| 會員專區| 經濟日報 - 經濟日報
+2021-03-22 03:23:33,2330,https://money.udn.com/money/story/12937/5334572,經濟日報,【Bloomberg】水荒之外電價恐飆漲25%？台積電等大廠面臨獲利絆腳石| 外媒解析| 會員專區 - 經濟日報
+2021-03-22 04:04:00,2330,https://finance.ettoday.net/news/1943533?redirect=1,ETtoday,韭菜急了！台積電慘跌 號召1人1信「救股價」…網笑：自救會？ - ETtoday
+2021-03-22 05:53:09,2330,https://udn.com/news/story/7251/5335025,UDN 聯合新聞網,"台積電回神 台股漲118點收16,189點 - UDN 聯合新聞網"
+2021-03-22 05:53:10,2330,https://money.udn.com/money/story/5607/5335025,經濟日報,"台積電回神 台股漲118點收16,189點 - 經濟日報"
+2021-03-22 06:30:09,2330,https://udn.com/news/story/7253/5335152,UDN 聯合新聞網,台積電翻紅收593元 市值15.37兆 - UDN 聯合新聞網
+2021-03-22 07:00:00,2330,https://udn.com/news/story/7253/5335152,UDN 聯合新聞網,台積電翻紅收593元 市值15.37兆 - UDN 聯合新聞網
+2021-03-22 07:00:00,2330,https://udn.com/news/story/7251/5335025,UDN 聯合新聞網,"台積電回神 台股漲118點收16,189點 - UDN 聯合新聞網"
+2021-03-22 07:00:00,2330,https://money.udn.com/money/story/5612/5335152,經濟日報,台積電翻紅收593元 市值15.37兆 - 經濟日報
+2021-03-22 07:00:00,2330,https://www.taiwannews.com.tw/ch/news/4156970,台灣英文新聞,〈財經主筆室〉全民力挺台灣護國神山台積電股東破百萬指日可待| 台灣英文新聞| 2021/03/22 - 台灣英文新聞
+2021-03-22 07:00:00,2330,https://money.udn.com/money/story/12937/5334572,經濟日報,【Bloomberg】水荒之外電價恐飆漲25%？台積電等大廠面臨獲利絆腳石| 外媒解析| 會員專區 - 經濟日報
+2021-03-22 07:00:00,2330,https://money.udn.com/money/story/12937/5334572,經濟日報,【Bloomberg】水荒之外電價恐飆漲25%？台積電等大廠面臨獲利絆腳石| 外媒解析| 會員專區| 經濟日報 - 經濟日報
+2021-03-22 09:18:09,2330,https://udn.com/news/story/7251/5335633,UDN 聯合新聞網,晶圓雙雄齊彈 外資轉買聯電、續倒貨台積電 - UDN 聯合新聞網
+2021-03-22 09:18:24,2330,https://money.udn.com/money/story/5618/5335633?from=edn_catehotlist_story,經濟日報,晶圓雙雄齊彈 外資轉買聯電、續倒貨台積電 - 經濟日報
+2021-03-23 00:56:20,2330,https://money.udn.com/money/story/5607/5336690,經濟日報,台指期開盤上漲86點 台積電期貨開盤漲4元 - 經濟日報
+2021-03-23 01:10:33,2330,https://tw.stock.yahoo.com/news/%E6%96%B0-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%9B%9E%E7%A5%9E%E6%BC%B25%E5%85%83-%E5%8F%B0%E8%82%A1%E6%BC%B2%E9%80%BE%E7%99%BE%E9%BB%9E-011033905.html,Yahoo奇摩股市,新／台積電回神漲5元！台股漲逾百點 - Yahoo奇摩股市
+2021-03-23 01:22:08,2330,https://udn.com/news/story/7251/5336727,UDN 聯合新聞網,"台積電領漲 台股漲60點開在16,250點 - UDN 聯合新聞網"
+2021-03-23 01:22:36,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%82%A1%E5%83%B9%E9%87%8D%E6%96%B0%E7%AB%99%E4%B8%8A600%E5%85%83%E9%97%9C%E5%8D%A1-%E5%B8%82%E5%80%BC%E6%94%80%E8%87%B315-63%E5%85%86%E5%85%83-012236630.html,Yahoo奇摩股市,台積電股價重新站上600元關卡 市值攀至15.63兆元 - Yahoo奇摩股市
+2021-03-23 01:26:09,2330,https://udn.com/news/story/7251/5336732,MISC,台積電開高後站回600元 早盤衝高至603元 - MISC
+2021-03-23 01:26:20,2330,https://money.udn.com/money/story/5607/5336732?from=edn_catenewest_story,經濟日報,台積電開高後站回600元 早盤衝高至603元 - 經濟日報
+2021-03-23 01:31:17,2330,https://money.udn.com/money/story/5612/5336742,經濟日報,台積電股價重登600元 市值攀至15.63兆元 - 經濟日報
+2021-03-23 02:01:36,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr22%E6%97%A5%E4%B8%8A%E6%BC%B23-55%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%853-12-%E6%8A%98%E5%8F%B0%E8%82%A1667-74%E5%85%83-020136514.html,Yahoo奇摩股市,台積電ADR22日上漲3.55美元漲幅3.12%折台股667.74元 - Yahoo奇摩股市
+2021-03-23 02:10:46,2330,https://udn.com/news/story/6839/5336823,UDN 聯合新聞網,韭菜怕被收割？ 散戶號召「寄信」給台積電 要求調高配息 - UDN 聯合新聞網
+2021-03-23 02:44:53,2330,https://udn.com/news/story/7251/5336690,MISC,台指期開盤上漲86點 台積電期貨開盤漲4元 - MISC
+2021-03-23 04:10:02,2330,https://news.sina.com.tw/article/20210323/37974408.html,臺灣新浪網,美系外資調高台積電目標價至866元，重申「買進」評等-財經新聞 - 臺灣新浪網
+2021-03-23 06:03:37,2330,https://tw.stock.yahoo.com/news/%E7%86%B1%E9%96%80%E6%97%8F%E7%BE%A4-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E8%81%AF%E7%99%BC%E7%A7%91%E5%8F%8D%E5%BD%88-%E9%9D%A2%E8%87%A810%E6%97%A5%E5%9D%87%E7%B7%9A%E5%8F%8D%E5%A3%93-060337193.html,Yahoo奇摩股市,《熱門族群》台積電、聯發科反彈 面臨10日均線反壓 - Yahoo奇摩股市
+2021-03-23 07:00:00,2330,https://udn.com/news/story/6839/5336823,UDN 聯合新聞網,韭菜怕被收割？ 散戶號召「寄信」給台積電 要求調高配息 - UDN 聯合新聞網
+2021-03-23 07:00:00,2330,https://m.cnyes.com/news/id/4617106,鉅亨網,傳與日產官界合作開發新技術 台積電：日本項目按計畫進行 - 鉅亨網
+2021-03-23 07:00:00,2330,https://money.udn.com/money/story/5612/5338320,經濟日報,台積電攜手日本產官界布局新一代半導體？公司回應了 - 經濟日報
+2021-03-23 07:00:00,2330,https://money.udn.com/money/story/5607/5336732,經濟日報,台積電開高後站回600元 早盤衝高至603元 - 經濟日報
+2021-03-23 07:00:00,2330,https://m.cnyes.com/news/id/4616950,鉅亨網,勤美集團提供建案地下水 台積電已派水車試水 - 鉅亨網
+2021-03-23 07:00:00,2330,https://udn.com/news/story/7251/5336732,MISC,台積電開高後站回600元 早盤衝高至603元 - MISC
+2021-03-23 09:06:56,2330,https://news.cnyes.com/news/id/4616950,Anue鉅亨,勤美集團提供建案地下水 台積電已派水車試水 - Anue鉅亨
+2021-03-23 09:06:56,2330,https://m.cnyes.com/news/id/4616950,鉅亨網,勤美集團提供建案地下水 台積電已派水車試水 - 鉅亨網
+2021-03-23 09:47:21,2330,https://money.udn.com/money/story/5710/5338320,經濟日報,台積電攜手日本產官界布局新一代半導體？公司回應了 - 經濟日報
+2021-03-23 10:43:08,2330,https://news.cnyes.com/news/id/4617106,Anue鉅亨,傳與日產官界合作開發新技術 台積電：日本項目按計畫進行 - Anue鉅亨
+2021-03-23 12:03:19,2330,https://tw.stock.yahoo.com/news/%E5%BB%BA%E5%95%86%E7%84%A1%E5%84%9F%E4%BE%9B%E5%9C%B0%E4%B8%8B%E6%B0%B4-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E5%B7%B2%E6%B4%BE%E6%B0%B4%E8%BB%8A%E8%A9%A6%E6%B0%B4-120319708.html,Yahoo奇摩股市,建商無償供地下水 台積電：已派水車試水 - Yahoo奇摩股市
+2021-03-23 21:41:39,2330,https://tw.news.yahoo.com/%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%86%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%9D%92%E5%B9%B4%E6%9B%B8%E6%B3%95%E6%9A%A8%E7%AF%86%E5%88%BB%E5%A4%A7%E8%B3%9E%E5%BE%97%E7%8D%8E%E4%BD%9C%E5%93%81%E8%B3%9E%E6%9E%90-201000133.html,Yahoo奇摩新聞,第十三屆台積電青年書法暨篆刻大賞得獎作品賞析 - Yahoo奇摩新聞
+2021-03-23 21:55:33,2330,https://tw.appledaily.com/property/20210324/DAXNV7LYSRBIZMXVBHSNOJRPNE/,台灣蘋果日報,半導體成長潛力大！美專家建議趁拉回買台積電｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
+2021-03-23 23:08:40,2330,https://tw.appledaily.com/property/20210324/DAXNV7LYSRBIZMXVBHSNOJRPNE/,台灣蘋果日報,半導體成長潛力大！美專家建議趁拉回買台積電｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
+2021-03-23 23:22:19,2330,https://money.udn.com/money/story/5599/5339313,經濟日報,對槓台積電！英特爾將在亞利桑那設2廠進軍晶圓代工 - 經濟日報
+2021-03-24 01:16:19,2330,https://money.udn.com/money/story/5607/5339404?from=edn_catenewest_story,經濟日報,台積電開盤跌23元 法人：仍看好後市 - 經濟日報
+2021-03-24 01:20:10,2330,https://udn.com/news/story/7251/5339408,UDN 聯合新聞網,"台積電大跳水 台股跌182點開在15,994點 - UDN 聯合新聞網"
+2021-03-24 01:20:12,2330,https://money.udn.com/money/story/5607/5339408,經濟日報,"台積電大跳水 台股跌182點開在15,994點 - 經濟日報"
+2021-03-24 01:26:38,2330,https://www.chinatimes.com/realtimenews/20210324001514-260410,中時新聞網,《台北股市》台股開跌182.63點 台積電創低 - 中時新聞網
+2021-03-24 01:26:38,2330,https://www.chinatimes.com/realtimenews/20210324001514-260410,中時新聞網 Chinatimes.com,《台北股市》台股開跌182.63點 台積電創低 - 中時新聞網 Chinatimes.com
+2021-03-24 02:26:05,2330,https://ec.ltn.com.tw/article/breakingnews/3477053,自由財經,英特爾蓋廠單挑台積電？台積電股價嚇趴 - 自由財經
+2021-03-24 04:03:26,2330,https://www.chinatimes.com/realtimenews/20210324002422-260410,中時新聞網,台積電爆量大跌 與半導體指數同步摜破季線 - 中時新聞網
+2021-03-24 04:04:00,2330,https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=9c9aafd8-972f-41df-95e9-584022c798ca,MoneyDJ理財網,車用晶片荒！韓媒：南韓向台灣求援、需台積電/聯電幫忙- 新聞 - MoneyDJ理財網
+2021-03-24 04:36:00,2330,https://money.udn.com/money/story/12989/5340040,經濟日報,英特爾挑戰台積電？黃崇仁：I don't even care 根本不可能| 產業分析| 會員專區| 經濟日報 - 經濟日報
+2021-03-24 05:05:00,2330,https://fnc.ebc.net.tw/fncnews/else/132358,EBC東森財經新聞,未上市：台積電(2330)子公司采鈺科技今送件申請登興櫃，預計4月上旬交易 - EBC東森財經新聞
+2021-03-24 05:42:00,2330,https://finance.ettoday.net/news/1945100,ETtoday,LIVE／台積電重挫3%「台股下跌145點」 【股市維大利】14:00即時解盤 - ETtoday
+2021-03-24 06:24:08,2330,https://udn.com/news/story/7240/5340431,UDN 聯合新聞網,台積電大跳水收盤576元 牛年市值縮水2.25兆 - UDN 聯合新聞網
+2021-03-24 06:24:26,2330,https://money.udn.com/money/story/5612/5340431,經濟日報,台積電大跳水收盤576元 牛年市值縮水2.25兆 - 經濟日報
+2021-03-24 07:00:00,2330,https://ec.ltn.com.tw/article/breakingnews/3477053,自由財經,英特爾蓋廠單挑台積電？台積電股價嚇趴 - 自由財經
+2021-03-24 07:00:00,2330,https://money.udn.com/money/story/5612/5340431,經濟日報,台積電大跳水收盤576元 牛年市值縮水2.25兆 - 經濟日報
+2021-03-24 07:00:00,2330,https://fnc.ebc.net.tw/fncnews/else/132358,EBC東森財經新聞,未上市：台積電(2330)子公司采鈺科技今送件申請登興櫃，預計4月上旬交易 - EBC東森財經新聞
+2021-03-24 07:00:00,2330,https://udn.com/news/story/7253/5340996,UDN 聯合新聞網,"台積電創牛年新低價跌破季線 外資狂賣超60,746張 - UDN 聯合新聞網"
+2021-03-24 07:00:00,2330,https://money.udn.com/money/story/5607/5340996,經濟日報,"台積電創牛年新低價跌破季線 外資狂賣超60,746張 - 經濟日報"
+2021-03-24 07:00:00,2330,https://tw.news.yahoo.com/%E7%8D%A8-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B7%B3%E6%B0%B4-%E5%A5%B9%E6%9B%9D%E9%B4%BB%E5%AE%B6%E8%BB%8D4%E5%A4%A7%E6%94%AF%E6%9F%B1-095038584.html,Yahoo奇摩新聞,獨／台積電跳水！她曝鴻家軍4大支柱 - Yahoo奇摩新聞
+2021-03-24 07:00:00,2330,https://money.udn.com/money/story/5607/5341652,經濟日報,台積電破季線 看到這個數字再加碼 - 經濟日報
+2021-03-24 07:00:00,2330,https://udn.com/news/story/7251/5339408,UDN 聯合新聞網,"台積電大跳水 台股跌182點開在15,994點 - UDN 聯合新聞網"
+2021-03-24 09:47:08,2330,https://udn.com/news/story/7253/5340996,UDN 聯合新聞網,"台積電創牛年新低價跌破季線 外資狂賣超60,746張 - UDN 聯合新聞網"
+2021-03-24 09:47:21,2330,https://money.udn.com/money/story/5612/5340996,經濟日報,"台積電創牛年新低價跌破季線 外資狂賣超60,746張 - 經濟日報"
+2021-03-24 11:39:14,2330,https://tw.stock.yahoo.com/news/%E8%8B%97%E6%A0%97%E5%8F%B0%E4%B8%AD%E9%99%90%E6%B0%B4%E7%A7%91%E6%8A%80%E5%BB%A0%E8%AD%A6%E6%88%92-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%8F%90%E5%8D%87%E6%B0%B4%E8%BB%8A%E8%BC%89%E6%B0%B4%E9%87%8F-113914811.html,Yahoo奇摩股市,苗栗台中限水科技廠警戒 台積電提升水車載水量 - Yahoo奇摩股市
+2021-03-24 15:04:20,2330,https://money.udn.com/money/story/5607/5341652,經濟日報,台積電破季線 看到這個數字再加碼 - 經濟日報
+2021-03-24 16:50:00,2330,https://ctee.com.tw/news/warrant/435108.html,工商時報,台積電、聯電訂單看旺 - 工商時報
+2021-03-25 00:05:54,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%A4%B1%E5%AF%B5-%E5%8F%B0%E8%82%A1%E8%90%AC%E5%85%AD%E6%94%BB%E9%98%B2%E5%86%8D%E8%B5%B7-234958520.html?bcmt=1,Yahoo奇摩股市,《台北股市》台積電失寵 台股萬六攻防再起 - Yahoo奇摩股市
+2021-03-25 00:23:35,2330,https://tw.stock.yahoo.com/news/%E7%9B%A4%E5%89%8D%E7%84%A6%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BBadr%E7%BA%8C%E6%8C%AB-%E5%8F%B0%E8%82%A1%E9%9D%A2%E8%87%A8%E8%90%AC%E5%85%AD%E4%BF%9D%E8%A1%9B%E6%88%B0-002335819.html,Yahoo奇摩股市,【盤前焦點】台積電ADR續挫 台股面臨萬六保衛戰 - Yahoo奇摩股市
+2021-03-25 01:01:36,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr24%E6%97%A5%E4%B8%8B%E8%B7%8C5-93%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%855-16-%E6%8A%98%E5%8F%B0%E8%82%A1621-90%E5%85%83-010136416.html,Yahoo奇摩股市,台積電ADR24日下跌5.93美元跌幅5.16%折台股621.90元 - Yahoo奇摩股市
+2021-03-25 01:03:00,2330,https://finance.ettoday.net/news/1945881,ETtoday,早盤一度跌破萬六！ 台積電陷入570元保衛戰 - ETtoday
+2021-03-25 01:15:09,2330,https://udn.com/news/story/7251/5342125,UDN 聯合新聞網,台積電572元開盤跌4元 牛年來市值縮水2.35兆 - UDN 聯合新聞網
+2021-03-25 01:15:21,2330,https://money.udn.com/money/story/5612/5342125,經濟日報,台積電572元開盤跌4元 牛年來市值縮水2.35兆 - 經濟日報
+2021-03-25 01:16:20,2330,https://money.udn.com/money/story/5607/5342127,經濟日報,"台積電續弱 台股跌21點開在16,010點 - 經濟日報"
+2021-03-25 01:29:36,2330,https://tw.stock.yahoo.com/news/%E7%BE%8E%E7%A7%91%E6%8A%80%E8%82%A1%E9%87%8D%E6%8C%AB-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%97%A9%E7%9B%A4%E8%82%A1%E5%83%B9%E4%B8%8B%E8%B7%8C1-012936794.html?bcmt=1,Yahoo奇摩理財,美科技股重挫 台積電早盤股價下跌1% - Yahoo奇摩理財
+2021-03-25 01:29:36,2330,https://tw.stock.yahoo.com/news/%E7%BE%8E%E7%A7%91%E6%8A%80%E8%82%A1%E9%87%8D%E6%8C%AB-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%97%A9%E7%9B%A4%E8%82%A1%E5%83%B9%E4%B8%8B%E8%B7%8C1-012936794.html,Yahoo奇摩股市,美科技股重挫 台積電早盤股價下跌1% - Yahoo奇摩股市
+2021-03-25 01:57:08,2330,https://udn.com/news/story/7251/5342192,udn OOPS! 新鮮事,為何外資看好卻賣不停？ 二外資下修台積電曝玄機 - udn OOPS! 新鮮事
+2021-03-25 02:44:48,2330,https://tw.stock.yahoo.com/news/%E4%BD%A0%E8%B3%ADintel-%E6%88%96%E6%8A%BC%E5%AF%B6%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E8%AC%9D%E9%87%91%E6%B2%B3-%E5%8A%9B%E7%A9%8D%E9%9B%BB%E9%BB%83%E5%B4%87%E4%BB%81%E9%BB%9E%E5%87%BA%E5%8F%B0%E7%BE%8E%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E5%B7%AE%E7%95%B0-024448019.html?bcmt=1,Yahoo奇摩股市,你賭Intel？或押寶台積電？ 謝金河：力積電黃崇仁點出台美工程師的差異 - Yahoo奇摩股市
+2021-03-25 02:47:00,2330,https://www.wealth.com.tw/home/articles/30717,財訊,Intel重返晶圓代工大戰台積電、三星 先進製程競賽火熱 「這7家」台廠設備供應鏈搶占機會 - 財訊
+2021-03-25 02:48:38,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E4%B8%AD-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%96%B2%E5%BC%B1-%E6%8C%87%E6%95%B8%E8%90%AC%E5%85%AD%E9%97%9C%E5%8D%A1%E9%9C%87%E7%9B%AA-024838086.html,Yahoo奇摩股市,【台股盤中】台積電疲弱 指數萬六關卡震盪 - Yahoo奇摩股市
+2021-03-25 03:21:08,2330,https://udn.com/news/story/122025/5342451,UDN 聯合新聞網,台積電中科廠水車啟動 第一輛竟是從這個豪宅工地載水 - UDN 聯合新聞網
+2021-03-25 03:21:20,2330,https://money.udn.com/money/story/5612/5342451,經濟日報,台積電中科廠水車啟動 第一輛竟是從這個豪宅工地載水 - 經濟日報
+2021-03-25 03:59:02,2330,https://ctee.com.tw/news/tech/435475.html,工商時報,取水！台積電首赴台中「勤美之森」工地 - 工商時報
+2021-03-25 04:47:07,2330,https://www.chinatimes.com/realtimenews/20210325002305-260410,中時新聞網 Chinatimes.com,「護國神山」台積電 今首赴台中勤美之森工地取水 - 中時新聞網 Chinatimes.com
+2021-03-25 05:11:14,2330,https://tw.news.yahoo.com/%E4%B8%AD%E9%83%A8%E5%BB%BA%E5%95%86%E6%8F%90%E4%BE%9B%E5%9C%B0%E4%B8%8B%E6%B0%B4-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%87%BA%E5%8B%95%E6%B0%B4%E8%BB%8A%E8%BC%89%E9%81%8B-%E5%9C%96-051114148.html,Yahoo奇摩新聞,中部建商提供地下水 台積電出動水車載運 (圖) - Yahoo奇摩新聞
+2021-03-25 06:20:45,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%BB%9F%E4%B8%AD%E9%80%8F%E5%A0%85-%E5%8F%B0%E8%82%A1%E5%AE%88%E4%BD%8F%E8%90%AC%E5%85%AD%E9%97%9C%E5%8D%A1-062045422.html,Yahoo奇摩股市,【台股盤後】台積電軟中透堅 台股守住萬六關卡 - Yahoo奇摩股市
+2021-03-25 06:35:45,2330,https://tw.news.yahoo.com/%E9%81%BF%E6%B0%B4%E8%8D%92%E8%A1%9D%E6%93%8A%E7%87%9F%E9%81%8B-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%96%8B%E5%A7%8B%E6%B4%BE%E6%B0%B4%E8%BB%8A%E5%88%B0%E5%BB%BA%E7%AF%89%E5%B7%A5%E5%9C%B0%E8%BC%89%E6%B0%B4-063545124.html,Yahoo奇摩新聞,避水荒衝擊營運 台積電開始派水車到建築工地載水 - Yahoo奇摩新聞
+2021-03-25 07:00:00,2330,https://tw.stock.yahoo.com/news/%E7%BE%8E%E7%A7%91%E6%8A%80%E8%82%A1%E9%87%8D%E6%8C%AB-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%97%A9%E7%9B%A4%E8%82%A1%E5%83%B9%E4%B8%8B%E8%B7%8C1-012936794.html,Yahoo奇摩股市,美科技股重挫 台積電早盤股價下跌1% - Yahoo奇摩股市
+2021-03-25 07:00:00,2330,https://tw.stock.yahoo.com/news/%E4%BD%A0%E8%B3%ADintel-%E6%88%96%E6%8A%BC%E5%AF%B6%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E8%AC%9D%E9%87%91%E6%B2%B3-%E5%8A%9B%E7%A9%8D%E9%9B%BB%E9%BB%83%E5%B4%87%E4%BB%81%E9%BB%9E%E5%87%BA%E5%8F%B0%E7%BE%8E%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E5%B7%AE%E7%95%B0-024448019.html?bcmt=1,Yahoo奇摩股市,你賭Intel？或押寶台積電？ 謝金河：力積電黃崇仁點出台美工程師的差異 - Yahoo奇摩股市
+2021-03-25 07:00:00,2330,https://udn.com/news/story/122025/5342451,UDN 聯合新聞網,台積電中科廠水車啟動 第一輛竟是從這個豪宅工地載水 - UDN 聯合新聞網
+2021-03-25 07:00:00,2330,https://www.wealth.com.tw/home/articles/30717,財訊,Intel重返晶圓代工大戰台積電、三星 先進製程競賽火熱 「這7家」台廠設備供應鏈搶占機會 - 財訊
+2021-03-25 08:11:06,2330,https://www.businesstoday.com.tw/article/category/80394/post/202103250020/,今周刊,英特爾想和台積電對幹？這3組數字證明護國神山的武功，美國對手短期內學不來 - 今周刊
+2021-03-25 09:30:03,2330,https://times.hinet.net/topic/23269035,HiNet 新聞社群,台積電缺工引爆同業離職潮？現況曝 - HiNet 新聞社群
+2021-03-25 09:30:38,2330,https://www.nownews.com/news/5221562,NOWnews 今日新聞,台積電大缺工引爆同業「離職潮」？內行揭現況：已無感了 - NOWnews 今日新聞
+2021-03-25 11:33:08,2330,https://udn.com/news/story/7240/5343992,MISC,中部建商主動聯繫台積電 願意無償供地下水 - MISC
+2021-03-25 11:33:19,2330,https://money.udn.com/money/story/5612/5343992?from=edn_catenewest_story,經濟日報,中部建商主動聯繫台積電 願意無償供地下水 - 經濟日報
+2021-03-25 23:00:22,2330,https://money.udn.com/money/story/5612/5344795,經濟日報,華爾街日報：英特爾下戰書 難撼動台積電優勢 - 經濟日報
+2021-03-26 01:14:07,2330,https://udn.com/news/story/7251/5344896,udn OOPS! 新鮮事,台股開盤上漲80點 台積電開盤漲7元 - udn OOPS! 新鮮事
+2021-03-26 01:14:18,2330,https://money.udn.com/money/story/5607/5344896?from=edn_catehotlist_story,經濟日報,台股開盤上漲80點 台積電開盤漲7元 - 經濟日報
+2021-03-26 01:29:19,2330,https://money.udn.com/money/story/5607/5344926,經濟日報,台積電582元開盤、上漲7元 市值重回15兆 - 經濟日報
+2021-03-26 01:31:30,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr25%E6%97%A5%E4%B8%8A%E6%BC%B21-49%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%851-37-%E6%8A%98%E5%8F%B0%E8%82%A1631-99%E5%85%83-011644391.html,Yahoo奇摩股市,台積電ADR25日上漲1.49美元漲幅1.37%折台股631.99元 - Yahoo奇摩股市
+2021-03-26 03:18:31,2330,https://ctee.com.tw/news/stock/436064.html,工商時報,台積電沉寂後上衝法人點關鍵是2關卡 - 工商時報
+2021-03-26 03:54:56,2330,https://money.udn.com/money/story/121852/5345253,經濟日報,台積電掀起工地水車熱背後關鍵人物是他| 產業動態| 會員專區| 經濟日報 - 經濟日報
+2021-03-26 04:20:40,2330,https://tw.stock.yahoo.com/news/%E5%8D%8A%E5%B0%8E%E9%AB%94-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%B2%89%E5%AF%82%E5%BE%8C%E4%B8%8A%E8%A1%9D-%E6%B3%95%E4%BA%BA%E9%BB%9E2%E9%97%9C%E5%8D%A1%E6%98%AF%E9%97%9C%E9%8D%B5-042040120.html,Yahoo奇摩股市,《半導體》台積電沉寂後上衝 法人點2關卡是關鍵 - Yahoo奇摩股市
+2021-03-26 04:59:21,2330,https://money.udn.com/money/story/5739/5345575,經濟日報,台積電等三個股認購權證 成交金額突破億元 - 經濟日報
+2021-03-26 05:43:08,2330,https://udn.com/news/story/7251/5345705,UDN 聯合新聞網,"台積電彈升逾2.6％！台股漲245點收16,305點 - UDN 聯合新聞網"
+2021-03-26 05:50:19,2330,https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%A4%A7%E6%BC%B2-%E5%8F%B0%E8%82%A1%E6%BC%B2-24574-%E9%BB%9E%E7%AB%99%E4%B8%8A-16300-%E9%97%9C%E5%8D%A1-055019360.html,Yahoo奇摩新聞,台積電大漲 台股漲245.74點 站上16300關卡 - Yahoo奇摩新聞
+2021-03-26 06:01:53,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%82%A1%E5%83%B9%E5%8B%81%E6%8F%9A15%E5%85%83-%E5%B8%82%E5%80%BC%E5%A2%9E%E5%8A%A03890%E5%84%84%E5%85%83-060153585.html,Yahoo奇摩股市,台積電股價勁揚15元 市值增加3890億元 - Yahoo奇摩股市
+2021-03-26 07:00:00,2330,https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%A4%A7%E6%BC%B2-%E5%8F%B0%E8%82%A1%E6%BC%B2-24574-%E9%BB%9E%E7%AB%99%E4%B8%8A-16300-%E9%97%9C%E5%8D%A1-055019360.html,Yahoo奇摩新聞,台積電大漲 台股漲245.74點 站上16300關卡 - Yahoo奇摩新聞
+2021-03-26 07:00:00,2330,https://udn.com/news/story/7251/5346284,UDN 聯合新聞網,"台積電收590元、市值15.29兆 外資買超6,860張 - UDN 聯合新聞網"
+2021-03-26 07:17:13,2330,https://tw.stock.yahoo.com/news/%E3%80%90y%E6%99%9A%E5%A0%B1%E3%80%91%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%87%8D%E5%B1%95%E9%9B%84%E9%A2%A8-%E6%90%B6%E5%9B%9E-5-%E6%97%A5%E7%B7%9A-071713850.html?bcmt=1,Yahoo奇摩股市,【Y晚報】台積電重展雄風 搶回5日線 - Yahoo奇摩股市
+2021-03-26 09:30:11,2330,https://udn.com/news/story/7251/5346284,UDN 聯合新聞網,"台積電收590元、市值15.29兆 外資買超6,860張 - UDN 聯合新聞網"
+2021-03-26 23:00:00,2330,https://www.wealth.com.tw/home/articles/30745,財訊,Intel代工事業來勢猛 台積電後市怎麼看？ - 財訊
+2021-03-27 01:53:22,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%82%A1%E5%83%B9%E9%9C%87%E7%9B%AA%E4%BD%8E%E6%8E%A5%E8%B2%B7%E7%9B%A4%E8%B8%B4%E8%BA%8D-%E8%82%A1%E6%9D%B1%E9%A6%96%E7%A0%B4%E7%99%BE%E8%90%AC%E4%BA%BA-015322398.html,Yahoo奇摩股市,台積電股價震盪低接買盤踴躍 股東首破百萬人 - Yahoo奇摩股市
+2021-03-27 02:09:02,2330,https://udn.com/news/story/7251/5347339,UDN 聯合新聞網,股價創2個月低點 小股東搶買 台積電股東首破百萬人！ - UDN 聯合新聞網
+2021-03-27 07:00:00,2330,https://udn.com/news/story/7251/5347339,UDN 聯合新聞網,股價創2個月低點 小股東搶買 台積電股東首破百萬人！ - UDN 聯合新聞網
+2021-03-27 07:00:00,2330,https://money.udn.com/money/story/12040/5348231,經濟日報,台積電ADR漲5%、半導體大反攻？三個籌碼角度告訴你，要不要接台積電！ - 經濟日報
+2021-03-27 09:56:34,2330,https://money.udn.com/money/story/12040/5348231,經濟日報,台積電ADR漲5%、半導體大反攻？三個籌碼角度告訴你，要不要接台積電！ - 經濟日報
+2021-03-27 22:45:20,2330,https://tw.appledaily.com/property/20210328/ASG2BZMW5ZCDHOZUCWKLHN4RMY/,台灣蘋果日報,【獨家】台積電傳12吋晶圓漲價400美元IC設計業：將採逐季調漲｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
+2021-03-27 23:16:13,2330,https://tw.appledaily.com/property/20210328/6CVY5IA3Y5BGHJDLF3K4NAB24U/,台灣蘋果日報,半導體冷戰保護主義再起！台積電5年內先進製程仍看不到對手｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
+2021-03-28 03:22:05,2330,https://ec.ltn.com.tw/article/breakingnews/3481529,自由財經,台積電ADR狂飆5.5％ 台股本週多頭有望再起 - 自由財經
+2021-03-28 03:48:00,2330,https://finance.ettoday.net/news/1948113,ETtoday,台積電、力積電4月漲價 IC設計業者：能拿到貨漲多少沒關係 - ETtoday
+2021-03-28 05:05:07,2330,https://udn.com/news/story/7240/5349353,UDN 聯合新聞網,傳逐季漲價？台積電回應了 - UDN 聯合新聞網
+2021-03-28 05:05:19,2330,https://money.udn.com/money/story/5612/5349353,經濟日報,傳12吋晶圓逐季漲價？台積電回應了 - 經濟日報
+2021-03-28 07:00:00,2330,https://finance.ettoday.net/news/1948113,ETtoday,台積電、力積電4月漲價 IC設計業者：能拿到貨漲多少沒關係 - ETtoday
+2021-03-28 07:00:00,2330,https://money.udn.com/money/story/5612/5349353,經濟日報,傳12吋晶圓逐季漲價？台積電回應了 - 經濟日報
+2021-03-28 08:33:18,2330,https://money.udn.com/money/story/5612/5349774?from=edn_catenewest_story,經濟日報,飯店工地日供地下水2萬噸 台積電、美光、友達都受惠 - 經濟日報
+2021-03-28 17:01:56,2330,https://money.udn.com/money/story/5612/5350279,經濟日報,挖礦風潮延燒 台積電礦機相關晶片出貨續熱 - 經濟日報
+2021-03-28 17:01:56,2330,https://udn.com/news/story/7240/5350279,UDN 聯合新聞網,挖礦風潮延燒 台積電礦機相關晶片出貨續熱 - UDN 聯合新聞網
+2021-03-28 17:40:23,2330,https://money.udn.com/money/story/5612/5350288,經濟日報,5G、車用急單加持 台積電衝出最強3月 - 經濟日報
+2021-03-28 19:26:00,2330,https://money.udn.com/money/story/5612/5350288,經濟日報,5G、車用急單加持 台積電衝出最強3月 - 經濟日報
+2021-03-28 19:26:23,2330,https://udn.com/news/story/7251/5350288,UDN 聯合新聞網,5G、車用急單加持 台積電衝出最強3月 - UDN 聯合新聞網
+2021-03-28 22:52:43,2330,https://tw.news.yahoo.com/%E6%8C%96%E7%A4%A6%E9%A2%A8%E6%BD%AE%E5%BB%B6%E7%87%92-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%A4%A6%E6%A9%9F%E7%9B%B8%E9%97%9C%E6%99%B6%E7%89%87%E5%87%BA%E8%B2%A8%E7%BA%8C%E7%86%B1-224021200.html,Yahoo奇摩新聞,挖礦風潮延燒 台積電礦機相關晶片出貨續熱 - Yahoo奇摩新聞
+2021-03-28 23:35:44,2330,https://tw.stock.yahoo.com/news/%E6%8C%96%E7%A4%A6%E9%A2%A8%E6%BD%AE%E5%BB%B6%E7%87%92-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%A4%A6%E6%A9%9F%E7%9B%B8%E9%97%9C%E6%99%B6%E7%89%87%E5%87%BA%E8%B2%A8%E7%BA%8C%E7%86%B1-224021200.html,Yahoo奇摩股市,挖礦風潮延燒 台積電礦機相關晶片出貨續熱 - Yahoo奇摩股市
+2021-03-29 00:53:09,2330,https://udn.com/news/story/7255/5350568,UDN 聯合新聞網,台指期開盤漲85點 台積電期貨開漲5元 - UDN 聯合新聞網
+2021-03-29 01:02:00,2330,https://finance.ettoday.net/news/1948513,ETtoday,早盤大漲逾170點！ 台積電一度重回600元關卡 - ETtoday
+2021-03-29 01:12:21,2330,https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%97%A9%E7%9B%A4%E9%87%8D%E7%99%BB-600-%E5%85%83%E9%97%9C%E5%8D%A1-%E7%AB%99%E4%B8%8A%E5%AD%A3%E7%B7%9A%E8%88%87%E6%9C%88%E7%B7%9A-011221191.html,Yahoo奇摩新聞,台積電早盤重登600元關卡 站上季線與月線 - Yahoo奇摩新聞
+2021-03-29 01:18:08,2330,https://udn.com/news/story/7251/5350597,UDN 聯合新聞網,台股開盤漲105點 台積電開漲9元 - UDN 聯合新聞網
+2021-03-29 01:18:20,2330,https://money.udn.com/money/story/5607/5350597,經濟日報,台股開盤漲105點 台積電開漲9元 - 經濟日報
+2021-03-29 01:19:02,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%82%A1%E5%83%B9%E6%97%A9%E7%9B%A4%E9%87%8D%E7%99%BB600%E5%85%83-%E7%AB%99%E4%B8%8A%E5%AD%A3%E7%B7%9A%E8%88%87%E6%9C%88%E7%B7%9A-011902009.html,Yahoo奇摩股市,台積電股價早盤重登600元 站上季線與月線 - Yahoo奇摩股市
+2021-03-29 01:20:09,2330,https://udn.com/news/story/7251/5350601,UDN 聯合新聞網,台積電開盤後一度衝600元 市值15.55兆 - UDN 聯合新聞網
+2021-03-29 01:20:21,2330,https://money.udn.com/money/story/5607/5350601,經濟日報,台積電開盤後一度衝600元 市值15.55兆 - 經濟日報
+2021-03-29 01:39:06,2330,https://udn.com/news/story/7240/5350628,UDN 聯合新聞網,好威！台積電八連霸 獲大學生心目中最嚮往夢幻企業 - UDN 聯合新聞網
+2021-03-29 01:39:18,2330,https://money.udn.com/money/story/5612/5350628?from=edn_catehotlist_story,經濟日報,好威！台積電八連霸 獲大學生心目中最嚮往夢幻企業 - 經濟日報
+2021-03-29 01:42:18,2330,https://money.udn.com/money/story/5612/5350632,經濟日報,台積電股價早盤重登600元 站上季線與月線 - 經濟日報
+2021-03-29 02:14:17,2330,https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=8e012c5f-c5e6-4b49-a83f-8d2a0899b5dd,MoneyDJ理財網,半導體需求增！台積電供應商Fujimi傳增產研磨材料- 新聞 - MoneyDJ理財網
+2021-03-29 03:16:09,2330,https://udn.com/news/story/7253/5350859,UDN 聯合新聞網,人氣匯集 群創盤中認購權證成交超越台積電 - UDN 聯合新聞網
+2021-03-29 03:16:20,2330,https://money.udn.com/money/story/5710/5350859,經濟日報,人氣匯集 群創盤中認購權證成交超越台積電 - 經濟日報
+2021-03-29 04:05:00,2330,https://fnc.ebc.net.tw/fncnews/stock/132488,EBC東森財經新聞,外資觀點：歐、美外資力挺台積電(2330)喊買，目標價分別上看650元及780元 - EBC東森財經新聞
+2021-03-29 04:17:25,2330,https://www.chinatimes.com/realtimenews/20210329002118-260410,中時新聞網 Chinatimes.com,《證交所》外資上周賣超近400億元台積電成苦主- 財經 - 中時新聞網 Chinatimes.com
+2021-03-29 04:21:11,2330,https://udn.com/news/story/7251/5351065,UDN 聯合新聞網,台積電盤中股價站上600元 大盤指數漲逾200點 - UDN 聯合新聞網
+2021-03-29 04:36:04,2330,https://tw.stock.yahoo.com/news/%E5%A4%96%E8%B3%87%E4%B8%8A%E9%80%B1%E8%B3%A3%E8%B6%85396-78%E5%84%84%E5%85%83-%E8%B3%A3%E8%B6%85%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B1%85%E9%A6%96-043604467.html,Yahoo奇摩股市,外資上週賣超396.78億元 賣超台積電居首 - Yahoo奇摩股市
+2021-03-29 04:56:41,2330,https://www.chinatimes.com/realtimenews/20210329002129-260410,中時新聞網 Chinatimes.com,台積電攻抵600元季線關卡 近關情怯 - 中時新聞網 Chinatimes.com
+2021-03-29 05:00:00,2330,https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=04543f27-6518-4474-829a-c2095f500836,MoneyDJ理財網,台積電盤中重返600元大關站上季線/月線- 新聞 - MoneyDJ理財網
+2021-03-29 05:50:10,2330,https://udn.com/news/story/7251/5351311,UDN 聯合新聞網,"台積電領漲 台股勁揚170點收16,475點 - UDN 聯合新聞網"
+2021-03-29 05:55:12,2330,https://tw.stock.yahoo.com/news/iphone-12-s%E5%91%BC%E8%81%B2%E9%AB%98-%E6%9C%80%E5%A4%A7%E8%B4%8F%E5%AE%B6%E9%99%A4%E4%BA%86%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E9%82%84%E6%9C%89%E4%BB%96%E5%80%91-055512554.html,Yahoo奇摩股市,iPhone 12s呼聲高 最大贏家除了台積電 還有他們 - Yahoo奇摩股市
+2021-03-29 06:04:08,2330,https://udn.com/news/story/7251/5351366,UDN 聯合新聞網,"台積電收盤599元、收復季線 3天漲23元市值激增5,963億 - UDN 聯合新聞網"
+2021-03-29 06:04:22,2330,https://money.udn.com/money/story/5607/5351366,經濟日報,"台積電3天收復季線 市值激增5,963億 - 經濟日報"
+2021-03-29 06:20:09,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%A0%98%E8%BB%8D%E5%A4%A7%E6%BC%B2-%E8%B7%9D%E6%AD%B7%E5%8F%B2%E9%AB%98%E9%BB%9E%E5%83%85%E5%B7%AE%E7%99%BE%E9%BB%9E-062009355.html,Yahoo奇摩股市,【台股盤後】台積電領軍大漲 距歷史高點僅差百點 - Yahoo奇摩股市
+2021-03-29 07:00:00,2330,https://fnc.ebc.net.tw/fncnews/stock/132488,EBC東森財經新聞,外資觀點：歐、美外資力挺台積電(2330)喊買，目標價分別上看650元及780元 - EBC東森財經新聞
+2021-03-29 07:00:00,2330,https://money.udn.com/money/story/5607/5351844,經濟日報,"外資買超台積電8,166張、連二買 聯電則遭賣超 - 經濟日報"
+2021-03-29 07:00:00,2330,https://news.cnyes.com/news/id/4621663,Anue鉅亨,台積電3奈米製程本月已試產小量交貨 量產時程可望提前 - Anue鉅亨
+2021-03-29 07:00:00,2330,https://udn.com/news/story/7251/5350288,UDN 聯合新聞網,5G、車用急單加持 台積電衝出最強3月 - UDN 聯合新聞網
+2021-03-29 07:00:00,2330,https://udn.com/news/story/7240/5350628,UDN 聯合新聞網,好威！台積電八連霸 獲大學生心目中最嚮往夢幻企業 - UDN 聯合新聞網
+2021-03-29 07:00:00,2330,https://finance.ettoday.net/news/1948513,ETtoday,早盤大漲逾170點！ 台積電一度重回600元關卡 - ETtoday
+2021-03-29 07:00:00,2330,https://udn.com/news/story/7251/5351844,UDN 聯合新聞網,外資買超台積電8166張、連二買 聯電則遭賣超 - UDN 聯合新聞網
+2021-03-29 07:00:00,2330,https://udn.com/news/story/7253/5350859,UDN 聯合新聞網,人氣匯集 群創盤中認購權證成交超越台積電 - UDN 聯合新聞網
+2021-03-29 07:27:00,2330,https://tw.stock.yahoo.com/video/2020-03-29-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E9%B4%BB%E6%B5%B7%E9%A0%98%E6%BC%B2-072700886.html,Yahoo奇摩股市,2020/03/29 台積電.鴻海領漲 台股收復16400點 - Yahoo奇摩股市
+2021-03-29 07:45:00,2330,https://tw.stock.yahoo.com/news/%E5%8D%8A%E5%B0%8E%E9%AB%94-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%BF%BD%E5%83%B9%E5%8A%9B%E4%B8%8D%E5%BC%B7-600%E5%85%83%E8%BF%91%E9%97%9C%E6%83%85%E6%80%AF-074500198.html,Yahoo奇摩股市,《半導體》台積電追價力不強 600元近關情怯 - Yahoo奇摩股市
+2021-03-29 09:09:09,2330,https://udn.com/news/story/7251/5351844,UDN 聯合新聞網,外資買超台積電8166張、連二買 聯電則遭賣超 - UDN 聯合新聞網
+2021-03-29 09:09:22,2330,https://money.udn.com/money/story/5607/5351844,經濟日報,"外資買超台積電8,166張、連二買 聯電則遭賣超 - 經濟日報"
+2021-03-29 10:59:32,2330,https://m.cnyes.com/news/id/4621320,鉅亨網,黃育仁7席東元董事名單曝光 台積電前代理發言人孫又文入列 - 鉅亨網
+2021-03-29 18:30:00,2330,https://money.udn.com/money/story/12972/5352195,經濟日報,台積電回神相關供應鏈躍居多頭指標| 投資理財| 會員專區| 經濟日報 - 經濟日報
+2021-03-29 22:55:19,2330,https://money.udn.com/money/story/5599/5352907,經濟日報,台積電ADR跌1.9% 高於台北交易溢價減為9% - 經濟日報
+2021-03-30 01:16:46,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E7%AA%81%E7%A0%B416500%E9%BB%9E-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%82%A1%E5%83%B9%E7%AB%99%E4%B8%8A600%E5%85%83-011646746.html,Yahoo奇摩股市,台股早盤突破16500點 台積電股價站上600元 - Yahoo奇摩股市
+2021-03-30 01:36:36,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr29%E6%97%A5%E4%B8%8B%E8%B7%8C2-17%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%851-86-%E6%8A%98%E5%8F%B0%E8%82%A1653-21%E5%85%83-013636140.html,Yahoo奇摩股市,台積電ADR29日下跌2.17美元跌幅1.86%折台股653.21元 - Yahoo奇摩股市
+2021-03-30 01:50:09,2330,https://udn.com/news/story/7251/5353056,UDN 聯合新聞網,晶圓雙雄面臨關卡、季線挑戰 台積電盤中再衝關600元 - UDN 聯合新聞網
+2021-03-30 01:50:21,2330,https://money.udn.com/money/story/5607/5353056?from=edn_breaknewstab_index,經濟日報,晶圓雙雄面臨關卡、季線挑戰 台積電盤中再衝關600元 - 經濟日報
+2021-03-30 02:05:00,2330,https://fnc.ebc.net.tw/fncnews/stock/132523,EBC東森財經新聞,個股：意德士(7556)真空吸盤獲台積電5奈米與3奈米採用，今年營運可望創新高 - EBC東森財經新聞
+2021-03-30 02:10:08,2330,https://tw.stock.yahoo.com/news/%E7%9B%A4%E4%B8%AD%E8%A7%A3%E6%9E%90-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%AB%98%E6%9C%89%E5%A3%93-%E5%8F%B0%E8%82%A1%E6%A9%AB%E7%9B%A4-021008808.html,Yahoo奇摩股市,《盤中解析》台積電高有壓 台股橫盤 - Yahoo奇摩股市
+2021-03-30 02:28:14,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%82%A1%E5%83%B9-%E5%BA%A6%E6%94%B6%E5%BE%A9600%E5%85%83-%E8%8B%B1%E7%89%B9%E7%88%BE%E5%AE%A3%E6%88%B0%E6%9C%89%E4%BD%95%E5%BD%B1%E9%9F%BF-%E8%AD%B7%E5%9C%8B%E7%A5%9E%E5%B1%B1-%E9%80%99%E6%A8%A3%E8%A7%A3%E9%87%8B-022814938.html?bcmt=1,Yahoo奇摩股市,台積電股價一度收復600元！ 英特爾宣戰有何影響，護國神山「這樣解釋」 - Yahoo奇摩股市
+2021-03-30 02:50:13,2330,https://tw.stock.yahoo.com/news/%E5%8D%8A%E5%B0%8E%E9%AB%94-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%BA%AB%E9%99%B7600%E5%85%83%E5%8D%A1%E4%BD%8D%E6%88%B0-025013909.html,Yahoo奇摩股市,《半導體》台積電身陷600元卡位戰 - Yahoo奇摩股市
+2021-03-30 03:20:13,2330,https://udn.com/news/story/7251/5353352,UDN 聯合新聞網,搶進手機股行情！外資推薦聯發科優於台積電 - UDN 聯合新聞網
+2021-03-30 03:20:33,2330,https://money.udn.com/money/story/5607/5353352,經濟日報,搶進手機股行情 外資推薦聯發科優於台積電 - 經濟日報
+2021-03-30 03:29:40,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E4%B8%AD%E8%B5%B0%E5%8B%A2%E9%9C%87%E7%9B%AA-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%82%A1%E5%83%B9%E7%BF%BB%E9%BB%91-032940588.html,Yahoo奇摩股市,台股盤中走勢震盪 台積電股價翻黑 - Yahoo奇摩股市
+2021-03-30 04:36:03,2330,https://news.cnyes.com/news/id/4621663,Anue鉅亨,台積電3奈米製程本月已試產小量交貨 量產時程可望提前 - Anue鉅亨
+2021-03-30 05:23:07,2330,https://udn.com/news/story/7240/5353820,UDN 聯合新聞網,台積電3奈米將提早量產？公司：不評論市場傳聞 - UDN 聯合新聞網
+2021-03-30 05:23:08,2330,https://money.udn.com/money/story/5612/5353820,經濟日報,台積電3奈米將提早量產？公司：不評論市場傳聞 - 經濟日報
+2021-03-30 07:00:00,2330,https://udn.com/news/story/7251/5353352,UDN 聯合新聞網,搶進手機股行情！外資推薦聯發科優於台積電 - UDN 聯合新聞網
+2021-03-30 07:00:00,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%82%A1%E5%83%B9-%E5%BA%A6%E6%94%B6%E5%BE%A9600%E5%85%83-%E8%8B%B1%E7%89%B9%E7%88%BE%E5%AE%A3%E6%88%B0%E6%9C%89%E4%BD%95%E5%BD%B1%E9%9F%BF-%E8%AD%B7%E5%9C%8B%E7%A5%9E%E5%B1%B1-%E9%80%99%E6%A8%A3%E8%A7%A3%E9%87%8B-022814938.html,Yahoo奇摩股市,台積電股價一度收復600元！ 英特爾宣戰有何影響，護國神山「這樣解釋」 - Yahoo奇摩股市
+2021-03-30 08:31:25,2330,https://news.cnyes.com/news/id/4621803,Anue鉅亨,追隨台積電 愛山林擬7月在新竹寶山推案總銷300億元 - Anue鉅亨
+2021-03-30 09:45:24,2330,https://money.udn.com/money/story/5612/5354667,經濟日報,台積電董事長劉德音 蟬聯TSIA理事長 - 經濟日報
+2021-03-30 09:46:20,2330,https://money.udn.com/money/story/5612/5354670,經濟日報,台積電董座劉德音連任TSIA理事長 10月開年會 - 經濟日報
+2021-03-30 12:28:21,2330,https://money.udn.com/money/story/5612/5354964,經濟日報,台積電劉德音示警 不確定因素導致半導體重複下單 - 經濟日報
+2021-03-30 21:10:16,2330,https://m.cnyes.com/news/id/4622162,鉅亨網,〈台股盤前要聞〉鴻海迎電動車商機、台積電3奈米優預期 今日必看財經新聞 - 鉅亨網
+2021-03-30 23:21:20,2330,https://money.udn.com/money/story/5599/5355675,經濟日報,台積電ADR周二逆勢收漲0.6% 較台北交易溢價9.9% - 經濟日報
+2021-03-31 00:55:11,2330,https://udn.com/news/story/7255/5355728,UDN 聯合新聞網,台指期開盤上漲20點 台積電期貨開盤跌2元 - UDN 聯合新聞網
+2021-03-31 00:55:24,2330,https://money.udn.com/money/story/11112/5355728,經濟日報,台指期開盤上漲20點 台積電期貨開盤跌2元 - 經濟日報
+2021-03-31 01:12:08,2330,https://udn.com/news/story/7251/5355753,UDN 聯合新聞網,台積電尚未填息 孫又文：有信心就沒問題 - UDN 聯合新聞網
+2021-03-31 01:12:19,2330,https://money.udn.com/money/story/5612/5355753?from=edn_catehotlist_story,經濟日報,台積電尚未填息 孫又文：有信心就沒問題 - 經濟日報
+2021-03-31 01:31:05,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr30%E6%97%A5%E4%B8%8A%E6%BC%B20-68%E7%BE%8E%E5%85%83%E6%BC%B2%E5%B9%850-59-%E6%8A%98%E5%8F%B0%E8%82%A1656-34%E5%85%83-013105694.html,Yahoo奇摩股市,台積電ADR30日上漲0.68美元漲幅0.59%折台股656.34元 - Yahoo奇摩股市
+2021-03-31 02:05:00,2330,https://fnc.ebc.net.tw/fncnews/else/132577,EBC東森財經新聞,產業：台積電(2330)董事長劉德音蟬聯TSIA第十三屆理事長 - EBC東森財經新聞
+2021-03-31 03:42:12,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%89%93%E9%80%A0%E7%B6%A0%E8%89%B2%E4%BE%9B%E6%87%89%E9%8F%88-%E5%8A%A9%E5%B9%B4%E7%9C%81%E9%9B%BB2%E5%84%84%E5%BA%A6-034212221.html,Yahoo奇摩股市,台積電打造綠色供應鏈 助年省電2億度 - Yahoo奇摩股市
+2021-03-31 03:44:18,2330,https://money.udn.com/money/story/5612/5356189,經濟日報,傳台積電因缺水想赴宜蘭設廠？林姿妙：還沒接洽過 - 經濟日報
+2021-03-31 03:54:21,2330,https://money.udn.com/money/story/5612/5356243,經濟日報,台積電打造綠色供應鏈 年省電2億度 - 經濟日報
+2021-03-31 03:57:21,2330,https://money.udn.com/money/story/5612/5356261,經濟日報,傳赴宜蘭設廠 台積電：無具體擴廠計畫 - 經濟日報
+2021-03-31 04:00:32,2330,https://money.udn.com/money/story/5612/5356273,經濟日報,台積電12廠冒白煙 疑電路故障起火1人送醫 - 經濟日報
+2021-03-31 04:03:09,2330,https://money.udn.com/money/story/5612/5356289,經濟日報,台積電竹科12廠驚傳火警 公司回應了 - 經濟日報
+2021-03-31 04:03:09,2330,https://udn.com/news/story/7240/5356289,UDN 聯合新聞網,台積電竹科12廠驚傳火警 公司回應了 - UDN 聯合新聞網
+2021-03-31 04:03:09,2330,https://udn.com/news/story/7240/5356289,udn OOPS! 新鮮事,台積電竹科12廠驚傳火警 公司回應了 - udn OOPS! 新鮮事
+2021-03-31 04:15:08,2330,https://tw.stock.yahoo.com/news/%E5%8D%8A%E5%B0%8E%E9%AB%94-%E5%82%B3%E5%AE%9C%E8%98%AD%E8%A8%AD%E5%BB%A0-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E7%84%A1%E5%85%B7%E9%AB%94%E8%A8%88%E7%95%AB-041508379.html,Yahoo奇摩股市,《半導體》傳宜蘭設廠 台積電：無具體計畫 - Yahoo奇摩股市
+2021-03-31 04:17:23,2330,https://www.chinatimes.com/realtimenews/20210331002743-260410,中時新聞網 Chinatimes.com,《半導體》傳宜蘭設廠 台積電：無具體計畫 - 中時新聞網 Chinatimes.com
+2021-03-31 04:19:31,2330,https://news.cnyes.com/news/id/4622450,Anue鉅亨,晶圓12B廠傳火警 台積電：變電站元件異常啟動CO2滅火系統 - Anue鉅亨
+2021-03-31 04:51:20,2330,https://www.chinatimes.com/realtimenews/20210331002951-260410,中時新聞網 Chinatimes.com,《半導體》傳火警台積電：變電站元件異常啟動滅火系統- 財經 - 中時新聞網 Chinatimes.com
+2021-03-31 04:51:20,2330,https://www.chinatimes.com/realtimenews/20210331002951-260410,中時新聞網 Chinatimes.com,《半導體》傳火警 台積電：變電站元件異常啟動滅火系統 - 中時新聞網 Chinatimes.com
+2021-03-31 05:04:00,2330,https://finance.ettoday.net/news/1950486,ETtoday,台積電12廠冒白煙 公司：因變電站異常 包商員工意識清醒 - ETtoday
+2021-03-31 05:15:24,2330,https://news.cnyes.com/news/id/4622474,鉅亨網,台積電要成半導體之王 仍有四大關橫在眼前 - 鉅亨網
+2021-03-31 05:51:09,2330,https://udn.com/news/story/7251/5356709,UDN 聯合新聞網,"台積電領跌 台股跌123點收16,431點 - UDN 聯合新聞網"
+2021-03-31 05:51:21,2330,https://money.udn.com/money/story/5607/5356709?from=edn_catenewest_story,經濟日報,"台積電領跌 台股跌123點收16,431點 - 經濟日報"
+2021-03-31 06:08:08,2330,https://udn.com/news/story/7240/5356765?from=udn-ch1_breaknews-1-cate6-news,UDN 聯合新聞網,台積電設首座自動化先進材料分析中心 提高效率93% - UDN 聯合新聞網
+2021-03-31 06:08:08,2330,https://udn.com/news/story/7240/5356765,MISC,台積電設首座自動化先進材料分析中心 提高效率93% - MISC
+2021-03-31 06:08:23,2330,https://money.udn.com/money/story/5621/5356765,經濟日報,台積電設首座自動化先進材料分析中心 提高效率93% - 經濟日報
+2021-03-31 06:18:25,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%B4%BB%E6%B5%B7%E9%A0%98%E8%B7%8C-%E5%A4%B1%E5%AE%8816500%E9%BB%9E-061825191.html,Yahoo奇摩股市,【台股盤後】台積電鴻海領跌 失守16500點 - Yahoo奇摩股市
+2021-03-31 07:00:00,2330,https://udn.com/news/story/7240/5356289,UDN 聯合新聞網,台積電竹科12廠驚傳火警 公司回應了 - UDN 聯合新聞網
+2021-03-31 07:26:37,2330,https://www.inside.com.tw/article/23038-how-IDM-2-release-TSMC-stress-insight-from-capital-expenditure,INSIDE 硬塞的網路趨勢觀察,【硬塞專家開評】從資本支出拆解：英特爾擴廠讓台積電持續領先，還緩解地緣政治壓力 - INSIDE 硬塞的網路趨勢觀察
+2021-03-31 07:39:06,2330,https://tw.stock.yahoo.com/news/%E3%80%90y%E6%99%9A%E5%A0%B1%E3%80%91%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%9B%A4%E4%B8%AD%E5%82%B3%E5%A4%B1%E7%81%AB-%E5%8F%B0%E8%82%A1%E8%B7%8C%E7%99%BE%E9%BB%9E%E5%A4%B1%E5%AE%88-16500-%E9%97%9C-073906069.html,Yahoo奇摩股市,【Y晚報】台積電盤中傳失火 台股跌百點失守16500關 - Yahoo奇摩股市
+2021-03-31 08:17:12,2330,https://m.cnyes.com/news/id/4622609,鉅亨網,台積電攜手Oticon 打造人工智慧助聽器 - 鉅亨網
+2021-03-31 10:20:11,2330,https://udn.com/news/story/7251/5357513,UDN 聯合新聞網,台積電600元關站不上 原來外資今年來倒貨逾53萬張 - UDN 聯合新聞網
+2021-03-31 10:20:25,2330,https://money.udn.com/money/story/5607/5357513,經濟日報,台積電站不上600元大關 原來外資今年來倒貨逾53萬張 - 經濟日報
+2021-03-31 16:59:38,2330,https://money.udn.com/money/story/5612/5358100,經濟日報,傳出宜蘭設廠? 台積電:無進一步擴廠具體計畫 - 經濟日報
+2021-03-31 20:03:33,2330,https://money.udn.com/money/story/5612/5358107,經濟日報,台積電綠色製造 大躍進 - 經濟日報
+2021-03-31 21:30:00,2330,https://ec.ltn.com.tw/article/paper/1440522,自由財經,台積電竹科12B廠火警 3奈米研發進程有變數？ - 自由財經
+2021-03-31 22:34:07,2330,https://tw.news.yahoo.com/%E7%A7%91%E6%8A%80%E6%A5%AD%E5%8F%97%E7%BC%BA%E6%B0%B4%E8%8B%A6-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%9C%AA%E8%A6%8F%E5%8A%83%E5%AE%9C%E8%98%AD%E8%A8%AD%E5%BB%A0-222918295.html,Yahoo奇摩新聞,科技業受缺水苦 台積電未規劃宜蘭設廠 - Yahoo奇摩新聞
+2021-03-31 23:52:22,2330,https://tw.stock.yahoo.com/news/%E7%86%B1%E9%96%80%E6%97%8F%E7%BE%A4-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E8%81%AF%E9%9B%BB-q2%E5%89%8D%E6%99%AF%E6%A8%82%E8%A7%80-234203082.html,Yahoo奇摩股市,《熱門族群》台積電、聯電 Q2前景樂觀 - Yahoo奇摩股市
+2021-03-31 23:52:46,2330,https://tw.stock.yahoo.com/news/%E9%87%91%E8%9E%8D-%E5%85%AD%E5%A4%A7%E5%A3%BD%E9%9A%AA%E8%82%A1%E6%B5%B7%E7%AB%B6%E8%B3%BD-%E6%8A%95%E8%B3%87%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%9C%80%E8%B3%BA-233943138.html,Yahoo奇摩股市,《金融》六大壽險股海競賽 投資台積電最賺 - Yahoo奇摩股市
+2021-03-31 23:56:49,2330,https://tw.stock.yahoo.com/news/%E7%86%B1%E9%96%80%E6%97%8F%E7%BE%A4-%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E8%81%AF%E9%9B%BB-q2%E5%89%8D%E6%99%AF%E6%A8%82%E8%A7%80-234203082.html,Yahoo奇摩股市,《熱門族群》台積電、聯電 Q2前景樂觀 - Yahoo奇摩股市
+2021-04-01 01:03:00,2330,https://finance.ettoday.net/news/1951045,ETtoday,快訊／台股創歷史新高！攻破16600點大關 台積電回神逼近600元 - ETtoday
+2021-04-01 01:17:19,2330,https://money.udn.com/money/story/5607/5358537,經濟日報,"台積電領軍！台股早盤創歷史新高 最高來到16,602點 - 經濟日報"
+2021-04-01 01:18:23,2330,https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%BC%B2-11-%E5%85%83-%E5%8F%B0%E8%82%A1%E6%97%A9%E7%9B%A4%E5%A4%A7%E6%BC%B2-171-%E9%BB%9E%E5%89%B5%E6%96%B0%E9%AB%98-011823242.html,Yahoo奇摩新聞,台積電漲11元 台股早盤攻上16602點創新高 - Yahoo奇摩新聞
+2021-04-01 01:36:23,2330,https://money.udn.com/money/story/5618/5358574,經濟日報,台積電走堅 台股早盤大漲171點再創盤中新高 - 經濟日報
+2021-04-01 01:54:20,2330,https://money.udn.com/money/story/5612/5358616,經濟日報,台積電擬3年砸1000億美元增產 支持客戶需求 - 經濟日報
+2021-04-01 02:17:59,2330,https://tw.stock.yahoo.com/news/%E5%8D%8A%E5%B0%8E%E9%AB%94-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%95%9F%E5%8B%953%E5%B9%B41000%E5%84%84%E7%BE%8E%E5%85%83%E5%A4%A7%E6%8A%95%E8%B3%87%E8%A8%88%E7%95%AB-021759212.html?bcmt=1,Yahoo奇摩股市,《半導體》台積電啟動3年1000億美元大投資計畫 - Yahoo奇摩股市
+2021-04-01 03:01:15,2330,https://tw.stock.yahoo.com/news/%E5%8D%8A%E5%B0%8E%E9%AB%94-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%8B%9A%E5%A2%9E%E7%94%A2%E8%83%BD-%E6%93%AC%E5%81%9C%E6%AD%A2%E5%83%B9%E6%A0%BC%E6%8A%98%E8%AE%93-030115900.html,Yahoo奇摩股市,《半導體》台積電拚增產能 擬停止價格折讓 - Yahoo奇摩股市
+2021-04-01 03:34:07,2330,https://udn.com/news/story/7240/5358897,udn OOPS! 新鮮事,未來三年投資千億美元擴產？ 台積電回應了 - udn OOPS! 新鮮事
+2021-04-01 04:13:20,2330,https://money.udn.com/money/story/5607/5359046?from=edn_breaknewstab_index,經濟日報,台積電劉德音示警28奈米供過於求 美系外資驚訝 - 經濟日報
+2021-04-01 05:47:08,2330,https://udn.com/news/story/7251/5359401,UDN 聯合新聞網,"台積電領軍 台股漲140點收歷史新高16,571點 - UDN 聯合新聞網"
+2021-04-01 05:47:09,2330,https://money.udn.com/money/story/5607/5359401?from=edn_catehotlist_story,經濟日報,"台積電回神 台股漲140點收歷史新高16,571點 - 經濟日報"
+2021-04-01 06:22:45,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E7%9B%A4%E5%BE%8C-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%87%8D%E7%99%BB600%E5%85%83-%E6%8C%87%E6%95%B8%E5%86%8D%E5%89%B5%E6%94%B6%E7%9B%A4%E6%96%B0%E9%AB%98-062245749.html,Yahoo奇摩股市,【台股盤後】台積電重登600元 指數再創收盤新高 - Yahoo奇摩股市
+2021-04-01 07:08:28,2330,https://tw.stock.yahoo.com/news/%E5%8D%8A%E5%B0%8E%E9%AB%94-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%8B%9A%E7%94%A2%E8%83%BD-%E8%BA%8D%E4%B8%8A6%E5%AD%97%E9%A0%AD%E8%B7%A8%E5%AD%A3%E7%B7%9A-070828586.html?bcmt=1,Yahoo奇摩股市,《半導體》台積電拚產能 躍上6字頭跨季線 - Yahoo奇摩股市
+2021-04-01 07:17:00,2330,https://news.cnyes.com/news/id/4623228,鉅亨網,台積電證實 未來3年將砸千億美元擴產 - 鉅亨網
+2021-04-01 07:17:00,2330,https://news.cnyes.com/news/id/4623228,鉅亨網,〈台積電大擴產〉公司證實 未來3年將砸千億美元擴產 - 鉅亨網
+2021-04-01 07:28:53,2330,https://money.udn.com/money/story/5607/5359739,經濟日報,台積電為何一邊說重複下單，一邊又發信通知取消折讓？ | 市場焦點| 證券| 經濟日報 - 經濟日報
+2021-04-01 07:28:53,2330,https://money.udn.com/money/story/12989/5359739,經濟日報,台積電為何一邊說重複下單，一邊又發信通知取消折讓？ | 產業分析| 會員專區| 經濟日報 - 經濟日報
+2021-04-01 09:32:08,2330,https://udn.com/news/story/7240/5360072,UDN 聯合新聞網,"台積電收602元、市值15.6兆 外資買超22,569張 - UDN 聯合新聞網"
+2021-04-01 09:32:20,2330,https://money.udn.com/money/story/5607/5360072,經濟日報,"台積電收602元、市值15.6兆 外資買超22,569張 - 經濟日報"
+2021-04-01 10:37:42,2330,https://ec.ltn.com.tw/article/breakingnews/3486875,自由財經,台股再收歷史新高 外資大買長榮、台積電 - 自由財經
+2021-04-01 14:31:00,2330,https://tw.appledaily.com/property/20210401/HLONHEGZ5BGEDNNL2NRR475BZA/,台灣蘋果日報,【全球股市不斷更新】美股牛市繼續衝！S&amp;P 500首次漲破4000點台積電ADR勁揚逾5% ｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
+2021-04-01 14:34:40,2330,https://money.udn.com/money/story/12989/5360617,經濟日報,台積電千億美元大投資解密產業三大商機| 產業分析| 會員專區| 經濟日報 - 經濟日報
+2021-04-01 14:34:40,2330,https://money.udn.com/money/story/12989/5360617,經濟日報,台積電千億美元投資解密產業三大商機| 產業分析| 會員專區| 經濟日報 - 經濟日報
+2021-04-01 15:37:17,2330,https://money.udn.com/money/story/12972/5360751,經濟日報,台積電看見三趨勢啟動大投資| 投資理財| 會員專區| 經濟日報 - 經濟日報
+2021-04-02 06:55:00,2330,https://tw.appledaily.com/property/20210402/VE6T33FLMZFT3DUGPOCZKOGHIQ/,台灣蘋果日報,拜登大撒幣美股HIGH！道瓊指數漲171.66點台積電ADR飆逾5.5% ｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
+2021-04-02 06:58:28,2330,https://tw.appledaily.com/property/20210402/VE6T33FLMZFT3DUGPOCZKOGHIQ/,台灣蘋果日報,拜登大撒幣美股HIGH！道瓊指數漲171.66點台積電ADR飆逾5.5% ｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
+2021-04-02 08:39:29,2330,https://tw.appledaily.com/property/20210402/VE6T33FLMZFT3DUGPOCZKOGHIQ/,台灣蘋果日報,拜登大撒幣美股HIGH！道瓊指數漲171.66點台積電ADR飆逾5.5% ｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
+2021-04-02 18:00:00,2330,https://udn.com/news/story/7240/5362733,UDN 聯合新聞網,台積電ADR強漲 帶旺費半 - UDN 聯合新聞網
+2021-04-02 21:20:10,2330,https://money.udn.com/money/story/12926/5363008,經濟日報,台積電ADR強漲帶旺費半| 今晨必讀| 會員專區| 經濟日報 - 經濟日報
+2021-04-03 03:24:04,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%B3%95%E4%BA%BA%E8%AA%AA%E6%98%8E%E6%9C%8315%E6%97%A5%E7%99%BB%E5%A0%B4-%E8%82%A1%E5%88%A9%E6%94%BF%E7%AD%96%E5%8F%97%E9%97%9C%E6%B3%A8-032404766.html,Yahoo奇摩股市,台積電法人說明會15日登場 股利政策受關注 - Yahoo奇摩股市
+2021-04-03 03:36:19,2330,https://money.udn.com/money/story/5612/5363310,經濟日報,台積電法說會15日登場 股利政策受關注 - 經濟日報
+2021-04-03 04:43:21,2330,https://tw.appledaily.com/property/20210402/VE6T33FLMZFT3DUGPOCZKOGHIQ/,台灣蘋果日報,拜登大撒幣美股HIGH！道瓊指數漲171.66點台積電ADR飆逾5.5% ｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
+2021-04-04 04:30:13,2330,https://ec.ltn.com.tw/article/breakingnews/3489171,自由財經,股民心聲》三聲無奈 散戶仔對台積電的期盼 - 自由財經
+2021-04-04 15:32:19,2330,https://money.udn.com/money/story/5599/5365996?from=edn_catehotlist_story,經濟日報,英特爾自產晶片 難撼動台積電 - 經濟日報
+2021-04-04 21:30:00,2330,https://ec.ltn.com.tw/article/paper/1441261,自由財經,〈財經週報-台積電大擴廠〉人才需求逐年增多 缺才問題浮現 - 自由財經
+2021-04-04 21:30:00,2330,https://ec.ltn.com.tw/article/paper/1441262,自由財經,〈財經週報-台積電大擴廠〉吃電怪獸 2奈米用電更高 - 自由財經
+2021-04-04 21:30:00,2330,https://ec.ltn.com.tw/article/paper/1441263,自由財經,〈財經週報-台積電大擴廠〉旱象威脅半導體業 台積電導入再生水 - 自由財經
+2021-04-04 21:30:00,2330,https://ec.ltn.com.tw/article/paper/1441264,自由財經,〈財經週報-台積電大擴廠〉國內外搶翻天 台積電投資美日 - 自由財經
+2021-04-04 21:30:00,2330,https://ec.ltn.com.tw/article/paper/1441258,自由財經,〈財經週報-台積電大擴廠〉台積電廣築護城河 近3兆元投資突破天際線 - 自由財經
+2021-04-04 23:00:00,2330,https://www.wealth.com.tw/home/articles/30869,財訊,台積電擬砸千億美元提升產能 「這3家」設備供應鏈笑開懷 - 財訊
+2021-04-05 06:23:54,2330,https://tw.appledaily.com/property/20210405/ZBQOCORTGZCUTFW26K7LYYGTVY/,台灣蘋果日報,台積電ADR大漲周二股價表現可期4月表現有賴法說會加持｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
+2021-04-05 12:23:15,2330,https://tw.appledaily.com/property/20210405/ZBQOCORTGZCUTFW26K7LYYGTVY/,台灣蘋果日報,台積電ADR大漲周二股價表現可期4月表現有賴法說會加持｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
+2021-04-05 18:05:55,2330,https://tw.appledaily.com/property/20210405/ZBQOCORTGZCUTFW26K7LYYGTVY/,台灣蘋果日報,台積電ADR大漲周二股價表現可期4月表現有賴法說會加持｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
+2021-04-05 22:16:02,2330,https://tw.news.yahoo.com/%E9%81%94%E8%A7%80%E8%82%A1%E5%B8%82-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%AB%98%E9%9A%8E%E8%A3%BD%E7%A8%8B%E5%90%83%E7%B7%8A-%E6%88%90%E9%95%B7%E7%A9%BA%E9%96%93%E5%8F%AF%E9%A0%90%E6%9C%9F-215812252.html,Yahoo奇摩新聞,【達觀股市】台積電高階製程吃緊 成長空間可預期 - Yahoo奇摩新聞
+2021-04-05 23:29:18,2330,https://money.udn.com/money/story/5599/5367924,經濟日報,台積電ADR周一小跌0.2% 較台北交易溢價仍高達18% - 經濟日報
+2021-04-05 23:40:09,2330,https://udn.com/news/story/7240/5367931,MISC,台積電股價有望填息？專家提醒操作重點 - MISC
+2021-04-05 23:40:09,2330,https://udn.com/news/story/7251/5367931,UDN 聯合新聞網,台積電股價有望填息？專家提醒操作重點 - UDN 聯合新聞網
+2021-04-05 23:40:22,2330,https://money.udn.com/money/story/5612/5367931,經濟日報,台積電股價有望填息？專家提醒操作重點 - 經濟日報
+2021-04-06 01:30:51,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%AD%90%E5%85%AC%E5%8F%B8%E9%87%87%E9%88%BA%E8%82%A1%E5%83%B9%E8%A1%9D%E7%A0%B4500%E5%85%83-%E7%99%BB%E8%88%88%E6%AB%83%E8%82%A1%E7%8E%8B-013051817.html,Yahoo奇摩股市,台積電子公司采鈺股價衝破500元 登興櫃股王 - Yahoo奇摩股市
+2021-04-06 01:31:18,2330,https://money.udn.com/money/story/5607/5368049?from=edn_breaknewstab_index,經濟日報,台積電開盤股價衝615元 花13個交易日完成填息 - 經濟日報
+2021-04-06 01:36:19,2330,https://money.udn.com/money/story/5612/5368063,經濟日報,台積電子公司采鈺股價衝破500元 登興櫃股王 - 經濟日報
+2021-04-06 02:05:51,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr5%E6%97%A5%E4%B8%8B%E8%B7%8C0-30%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%850-24-%E6%8A%98%E5%8F%B0%E8%82%A1710-47%E5%85%83-020551397.html,Yahoo奇摩股市,台積電ADR5日下跌0.30美元跌幅0.24%折台股710.47元 - Yahoo奇摩股市
+2021-04-06 03:05:00,2330,https://fnc.ebc.net.tw/fncnews/stock/132717,EBC東森財經新聞,焦點股：台積電(2330)千億美元資本支出發威，概念股今日紅通通 - EBC東森財經新聞
+2021-04-06 03:23:08,2330,https://udn.com/news/story/7253/5368381,UDN 聯合新聞網,台積電小金雞采鈺登錄興櫃交易 擠下瑞鼎登股王 - UDN 聯合新聞網
+2021-04-06 03:23:21,2330,https://money.udn.com/money/story/11074/5368381,經濟日報,台積電小金雞采鈺登錄興櫃交易 擠下瑞鼎登股王 - 經濟日報
+2021-04-06 03:43:47,2330,https://money.udn.com/money/story/5612/5368353,經濟日報,中科節水率15%減供不停供 台積電派水車「盡量載」 - 經濟日報
+2021-04-06 03:57:44,2330,https://news.cnyes.com/news/id/4623932,Anue鉅亨,台積電小金雞采鈺掛牌首日 衝上566元登興櫃股王 - Anue鉅亨
+2021-04-06 03:57:44,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%8F%E9%87%91%E9%9B%9E%E9%87%87%E9%88%BA%E6%8E%9B%E7%89%8C%E9%A6%96%E6%97%A5-%E8%A1%9D%E4%B8%8A566%E5%85%83%E7%99%BB%E8%88%88%E6%AB%83%E8%82%A1%E7%8E%8B-035744975.html,Yahoo奇摩股市,台積電小金雞采鈺掛牌首日 衝上566元登興櫃股王 - Yahoo奇摩股市
+2021-04-06 04:24:34,2330,https://news.cnyes.com/news/id/4623942,Anue鉅亨,〈焦點股〉台積電大擴產設備供應鏈歡呼 京鼎直奔漲停 - Anue鉅亨
+2021-04-06 04:25:11,2330,https://udn.com/news/story/7251/5368604,UDN 聯合新聞網,台積電三年砸千億美元擴產 外資喊讚、目標價上看866元 - UDN 聯合新聞網
+2021-04-06 04:25:24,2330,https://money.udn.com/money/story/5607/5368604,經濟日報,台積電三年砸千億美元擴產 外資喊讚、目標價上看866元 - 經濟日報
+2021-04-06 05:06:48,2330,https://tw.news.yahoo.com/%E8%8B%A5%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%81%9C%E5%B7%A51%E5%B9%B4%E5%B0%87%E6%9C%8914%E5%85%86%E6%90%8D%E5%A4%B1-sia-%E5%85%A8%E7%90%83%E9%9B%BB%E5%AD%90%E4%BE%9B%E6%87%89%E9%8F%88%E6%9C%83%E5%81%9C%E6%93%BA-050648576.html,Yahoo奇摩新聞,若台積電停工1年將有14兆損失 SIA：全球電子供應鏈會停擺 - Yahoo奇摩新聞
+2021-04-06 05:36:31,2330,https://tw.appledaily.com/property/20210406/BWHU2PJXFVHRDHLRENCOOWRSSY/,台灣蘋果日報,台積電小雞金采鈺股價衝破500元蜜月行情飆漲1.3倍登興櫃股王｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
+2021-04-06 05:50:30,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%8A%B113%E5%A4%A9%E7%B5%82%E6%96%BC%E5%A1%AB%E6%81%AF-%E6%9C%AA%E4%BE%863%E5%B9%B4%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA%E5%8A%A0%E7%A2%BC%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83-%E5%8E%9F%E4%BE%86%E8%83%8C%E5%BE%8C%E7%9B%A4%E7%AE%97-%E6%98%AF%E9%80%99%E5%80%8B-055030229.html?bcmt=1,Yahoo奇摩股市,台積電花13天終於填息！ 未來3年資本支出加碼千億美元 原來背後盤算「是這個」 - Yahoo奇摩股市
+2021-04-06 06:05:00,2330,https://fnc.ebc.net.tw/fncnews/stock/132736,EBC東森財經新聞,個股：美國拚基建＋台積電大擴產，樺漢(6414)迎商機，法人按讚 - EBC東森財經新聞
+2021-04-06 07:45:39,2330,https://www.businesstoday.com.tw/article/category/80394/post/202104060020/,今周刊,台積電完成填息從3組「護國神山數據」 看懂全球對台灣半導體的依賴程度 - 今周刊
+2021-04-06 09:14:10,2330,https://udn.com/news/story/7253/5369451?from=udn-ch1_breaknews-1-0-news,UDN 聯合新聞網,"台積電13天完成填息 外資買超12,582張、連二買 - UDN 聯合新聞網"
+2021-04-06 17:00:24,2330,https://udn.com/news/story/7251/5370193?from=udn-catelistnews_ch2,UDN 聯合新聞網,搶當台積電百萬股東 這幾檔ETF「含積量」最高 - UDN 聯合新聞網
+2021-04-06 17:00:24,2330,https://money.udn.com/money/story/5607/5370193,經濟日報,搶當台積電百萬股東 這幾檔ETF「含積量」最高 - 經濟日報
+2021-04-06 22:47:19,2330,https://money.udn.com/money/story/5599/5370484,經濟日報,台積電ADR跌1.7% 隨費半下跌 - 經濟日報
+2021-04-07 00:01:28,2330,https://tw.stock.yahoo.com/news/%E6%84%88%E9%99%8C%E7%94%9F%E6%BC%B2%E6%84%88%E5%85%87-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%97%97%E4%B8%8B%E9%87%87%E9%88%BA%E7%9B%B4%E8%A1%9D%E8%88%88%E6%AB%83%E8%82%A1%E7%8E%8B-%E9%82%84%E6%9C%89%E9%80%99%E4%BA%9B%E5%B0%8F%E9%87%91%E9%9B%9E%E5%BE%8C%E5%B8%82%E5%8F%AF%E6%9C%9F-000128188.html,Yahoo奇摩股市,愈陌生漲愈兇？台積電旗下采鈺直衝興櫃股王 還有這些小金雞後市可期 - Yahoo奇摩股市
+2021-04-07 02:26:04,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr6%E6%97%A5%E4%B8%8B%E8%B7%8C2-06%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%851-65-%E6%8A%98%E5%8F%B0%E8%82%A1697-57%E5%85%83-022604930.html,Yahoo奇摩股市,台積電ADR6日下跌2.06美元跌幅1.65%折台股697.57元 - Yahoo奇摩股市
+2021-04-07 02:55:00,2330,https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=8fb5420d-3e91-42dd-8d17-f936f5b8ff3e,MoneyDJ理財網,台積電全包？光洋科新產能針對半導體前段製程- 新聞 - MoneyDJ理財網
+2021-04-07 04:07:10,2330,https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%AE%8C%E6%88%90%E5%A1%AB%E6%81%AF-%E5%BE%9E3%E7%B5%84-%E8%AD%B7%E5%9C%8B%E7%A5%9E%E5%B1%B1%E6%95%B8%E6%93%9A-%E7%9C%8B%E6%87%82%E5%85%A8%E7%90%83%E5%B0%8D%E5%8F%B0%E7%81%A3%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%9A%84%E4%BE%9D%E8%B3%B4%E7%A8%8B%E5%BA%A6-040710253.html,Yahoo奇摩新聞,台積電完成填息 從3組「護國神山數據」 看懂全球對台灣半導體的依賴程度 - Yahoo奇摩新聞
+2021-04-07 04:07:10,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%AE%8C%E6%88%90%E5%A1%AB%E6%81%AF-%E5%BE%9E3%E7%B5%84-%E8%AD%B7%E5%9C%8B%E7%A5%9E%E5%B1%B1%E6%95%B8%E6%93%9A-%E7%9C%8B%E6%87%82%E5%85%A8%E7%90%83%E5%B0%8D%E5%8F%B0%E7%81%A3%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%9A%84%E4%BE%9D%E8%B3%B4%E7%A8%8B%E5%BA%A6-040710253.html,Yahoo奇摩股市,台積電完成填息 從3組「護國神山數據」 看懂全球對台灣半導體的依賴程度 - Yahoo奇摩股市
+2021-04-07 07:26:20,2330,https://money.udn.com/money/story/5612/5371810,經濟日報,助太魯閣號事故家屬 台積電張淑芬現身花蓮 - 經濟日報
+2021-04-07 07:36:58,2330,https://wealth.businessweekly.com.tw/m/GArticle.aspx?id=ARTL010178573,商周財富網,客戶需求相當強勁，台積電上修5nm產能規劃 - 商周財富網
+2021-04-07 07:59:01,2330,https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E5%88%B6%E8%A3%81%E8%8F%AF%E7%82%BA%E6%A8%82%E4%BA%86%E8%AA%B0-%E6%97%A5%E7%B6%93-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%89%80%E5%9C%A8%E7%9A%84%E6%96%B0%E7%AB%B9%E5%9C%B0%E7%94%A2%E5%95%86-075901340.html?bcmt=1,Yahoo奇摩股市,美國制裁華為樂了誰？ 日經：台積電所在的新竹地產商 - Yahoo奇摩股市
+2021-04-07 08:12:22,2330,https://money.udn.com/money/story/5612/5371921,經濟日報,台積電慈善基金會張淑芬：將為太魯閣號救災人員換新制服 - 經濟日報
+2021-04-07 08:34:16,2330,https://money.udn.com/money/story/5648/5371797,經濟日報,台中「供5停2」第2天！護國神山台積電新增1工地取水 - 經濟日報
+2021-04-07 10:57:08,2330,https://udn.com/news/story/7240/5372320,UDN 聯合新聞網,高通5G晶片急單 傳委由台積電操刀 - UDN 聯合新聞網
+2021-04-07 10:57:20,2330,https://money.udn.com/money/story/5612/5372320,經濟日報,高通5G晶片急單 傳委由台積電操刀 - 經濟日報
+2021-04-07 13:16:58,2330,https://money.udn.com/money/story/12972/5372475,經濟日報,台積電股東突破百萬權王高持股ETF誰最旺？ | 投資理財| 會員專區| 經濟日報 - 經濟日報
+2021-04-07 19:04:27,2330,https://www.eprice.com.tw/mobile/talk/102/5635537/1/,ePrice,傳台積電下月將開始生產A15 Bionic 處理器- 手機品牌新聞| ePrice 比價王 - ePrice
+2021-04-07 19:04:27,2330,https://m.eprice.com.tw/mobile/talk/102/5635537/1,ePrice,傳台積電下月將開始生產A15 Bionic 處理器 - ePrice
+2021-04-08 00:41:42,2330,https://tw.appledaily.com/property/20210408/EJM66HZHONF6THHAU63RC63PFE/,台灣蘋果日報,外資：台積電2024年營收將翻倍問鼎半導體營收一哥｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
+2021-04-08 01:03:00,2330,https://finance.ettoday.net/news/1955608,ETtoday,台股連漲終止！開盤小跌逾30點 台積電、大立光同步走弱 - ETtoday
+2021-04-08 01:10:40,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E7%A9%8D%E9%9B%BBadr7%E6%97%A5%E4%B8%8B%E8%B7%8C2-55%E7%BE%8E%E5%85%83%E8%B7%8C%E5%B9%852-08-%E6%8A%98%E5%8F%B0%E8%82%A1681-62%E5%85%83-011040012.html,Yahoo奇摩股市,台積電ADR7日下跌2.55美元跌幅2.08%折台股681.62元 - Yahoo奇摩股市
+2021-04-08 01:27:51,2330,https://tw.stock.yahoo.com/news/%E4%B8%80%E7%89%87%E5%B0%8F%E8%BC%89%E6%9D%BF-%E5%A6%82%E4%BD%95%E6%93%BE%E4%BA%82%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%8B%B1%E7%89%B9%E7%88%BE%E7%9A%84%E6%88%B0%E5%B1%80-012751124.html?bcmt=1,Yahoo奇摩理財,一片小載板 如何擾亂台積電、英特爾的戰局？ - Yahoo奇摩理財
+2021-04-08 01:27:51,2330,https://tw.stock.yahoo.com/news/%E4%B8%80%E7%89%87%E5%B0%8F%E8%BC%89%E6%9D%BF-%E5%A6%82%E4%BD%95%E6%93%BE%E4%BA%82%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%8B%B1%E7%89%B9%E7%88%BE%E7%9A%84%E6%88%B0%E5%B1%80-012751124.html?bcmt=1,Yahoo奇摩股市,一片小載板 如何擾亂台積電、英特爾的戰局？ - Yahoo奇摩股市
+2021-04-08 02:18:00,2330,https://www.wealth.com.tw/home/articles/30941,財訊,台積電全包？光洋科半導體前段製程 新產能預計Q2完工 - 財訊
+2021-04-08 03:10:10,2330,https://news.sina.com.tw/article/20210408/38144124.html,臺灣新浪網,焦點股：車市復甦與台積電擴廠，強新今年營收與獲利看俏，EPS可望重返2元-財經新聞 - 臺灣新浪網
+2021-04-08 03:22:18,2330,https://www.chinatimes.com/realtimenews/20210408002201-260410,中時新聞網 Chinatimes.com,雙雄兩樣情聯發科衝千金台積電跌破季線- 財經 - 中時新聞網 Chinatimes.com
+2021-04-08 03:22:18,2330,https://www.chinatimes.com/realtimenews/20210408002201-260410,中時新聞網 Chinatimes.com,雙雄兩樣情 聯發科衝千金 台積電跌破季線 - 中時新聞網 Chinatimes.com
+2021-04-08 03:38:45,2330,https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%B8%82-%E8%81%AF%E7%99%BC%E7%A7%91%E8%A1%9D%E5%8D%83%E9%87%91-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%B7%8C%E7%A0%B4%E5%AD%A3%E7%B7%9A-033845868.html,Yahoo奇摩股市,《台北股市》聯發科衝千金 台積電跌破季線 - Yahoo奇摩股市
+2021-04-08 03:56:28,2330,https://tw.appledaily.com/property/20210408/EJM66HZHONF6THHAU63RC63PFE/,台灣蘋果日報,外資：台積電2024年營收將翻倍問鼎半導體營收一哥｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
+2021-04-08 04:02:04,2330,https://tw.appledaily.com/property/20210408/EJM66HZHONF6THHAU63RC63PFE/,台灣蘋果日報,外資：台積電2024年營收將翻倍問鼎半導體營收一哥｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
+2021-04-08 04:02:52,2330,https://news.cnyes.com/news/id/4625426,Anue鉅亨,中鼎赴美亞利桑那州駐點 爭取台積電、英特爾建廠商機 - Anue鉅亨
+2021-04-08 06:05:00,2330,https://fnc.ebc.net.tw/fncnews/stock/132842,EBC東森財經新聞,外資觀點：美系外資看好台積電後市，重申「買進」評等，目標價上看900元 - EBC東森財經新聞
+2021-04-08 07:24:22,2330,https://money.udn.com/money/story/5612/5374444,經濟日報,台積電、世芯晶片助研發解放軍飛彈？經濟部：無軍事使用 - 經濟日報
+2021-04-08 08:11:23,2330,https://money.udn.com/money/story/5612/5374579,經濟日報,台積電、世芯晶片供陸飛彈研發 貿易局：必要時調查 - 經濟日報
+2021-04-08 09:34:37,2330,https://money.udn.com/money/story/5612/5374809,經濟日報,台積電、雙A罕見漲價 小晶片變通膨風向球 - 經濟日報
+2021-04-08 11:21:26,2330,https://news.cnyes.com/news/id/4626061,鉅亨網,生產晶片供中國研發飛彈？ 台積電：恪守所有相關法規 - 鉅亨網
+2021-04-08 14:25:19,2330,https://money.udn.com/money/story/5612/5375410,經濟日報,美國將飛騰等納入實體清單 台積電：遵循法律規範 - 經濟日報
+2021-04-08 14:26:07,2330,https://udn.com/news/story/7240/5375410,udn OOPS! 新鮮事,美國將飛騰等納入實體清單 台積電：遵循法律規範 - udn OOPS! 新鮮事
+2021-04-08 14:57:52,2330,https://tw.appledaily.com/property/20210408/EJM66HZHONF6THHAU63RC63PFE/,台灣蘋果日報,外資：台積電2024年營收將翻倍問鼎半導體營收一哥｜ 蘋果新聞網｜ 蘋果日報 - 台灣蘋果日報
+2021-04-09 00:39:20,2330,https://ec.ltn.com.tw/article/breakingnews/3494278,自由財經,飛騰等7家中企遭美列實體清單 台積電將無法接單了 - 自由財經
+2021-04-09 01:06:00,2330,https://finance.ettoday.net/news/1956465,ETtoday,快訊／台股早盤再創新高！一度站上萬七 台積電、聯電開紅上漲 - ETtoday
+2021-04-09 01:08:21,2330,https://money.udn.com/money/story/5607/5375970,經濟日報,台積電領漲！台股開盤漲47點 早盤突破萬七 - 經濟日報
+2021-04-09 02:40:45,2330,https://www.inside.com.tw/article/23121-TSMC-Expand-capacity-ARM-add-TSMC-new-Holy-grail,INSIDE 硬塞的網路趨勢觀察,【硬塞專家開評】台積電再跟英特爾 800 億美元：抓住晶片自研大趨勢 - INSIDE 硬塞的網路趨勢觀察
+2021-04-09 03:03:09,2330,https://udn.com/news/story/7251/5376176,UDN 聯合新聞網,台積電3月營收挑戰新高 外資連四買 - UDN 聯合新聞網
+2021-04-09 03:03:25,2330,https://money.udn.com/money/story/5607/5376176,經濟日報,台積電3月營收挑戰新高 外資連四買 - 經濟日報
+2021-04-09 04:00:00,2330,https://finance.ettoday.net/news/1956475,ETtoday,賣掉5張台積電！305萬「All in力積電」媽氣炸 網卻一面倒支持 - ETtoday
+2021-04-09 05:45:08,2330,https://udn.com/news/story/7240/5376701,UDN 聯合新聞網,"台積電3月合併營收1,291.27億、月增21.2% 創歷史新高 - UDN 聯合新聞網"
+2021-04-09 06:01:04,2330,https://money.udn.com/money/story/12937/5376717,經濟日報,【Bloomberg】晶片業碳足跡問題不小台積電迎接挑戰| 外媒解析| 會員專區| 經濟日報 - 經濟日報
+2021-04-09 06:06:17,2330,https://tw.stock.yahoo.com/news/%E5%8D%8A%E5%B0%8E%E9%AB%94-%E5%8F%B0%E7%A9%8D%E9%9B%BB3%E6%9C%88-q1%E7%87%9F%E6%94%B6%E5%90%8C%E5%89%B5%E6%96%B0%E9%AB%98-060617465.html?bcmt=1,Yahoo奇摩理財,《半導體》台積電3月、Q1營收同創新高 - Yahoo奇摩理財
+2021-04-09 07:00:44,2330,https://technews.tw/2021/04/09/tsmc-2330-202103-financial-report/,科技新報 TechNews,台積電3月營收1291.27 億元，較2 月再成長21.2% - 科技新報 TechNews
