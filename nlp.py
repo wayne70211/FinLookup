@@ -56,7 +56,6 @@ class Tokenizer:
 
     def tokenize(self, content):
         if type(content) == str:
-            # Initialize drivers
             sentence_list = content.split("，")
             word_sentence_list = self.ws_driver(sentence_list)
             return ", ".join(sum(word_sentence_list, []))
@@ -89,7 +88,7 @@ class Tokenizer:
             return []
 
 
-def get_tfidf(document, dataframe, max_features=100, max_df=0.1, norm='l1'):
+def get_tfidf(document, dataframe, max_features=100, max_df=0.5, norm='l1'):
     tf_model = TfidfVectorizer(token_pattern=r"(?u)\b\w+\b", max_features=max_features,
                                max_df=max_df, smooth_idf=False, use_idf=False, norm=norm)
     tf = tf_model.fit_transform(document)

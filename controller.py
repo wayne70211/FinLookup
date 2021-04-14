@@ -8,7 +8,7 @@ from wordcloud import WordCloud
 import dash_bootstrap_components as dbc
 import plotly.express as px
 from utils import check_dir, get_data_from_finmind
-from NLP import get_tfidf, get_news, Tokenizer
+from nlp import get_tfidf, get_news, Tokenizer
 
 
 def open_collapse(n, is_open):
@@ -171,15 +171,6 @@ class Controller:
 
         fig.add_trace(go.Bar(x=filtered_df_margin_trading.index,
                              y=filtered_df_margin_trading.NetShortSelling, name='Short Selling'), row=4, col=1)
-
-        #         '''
-        #     "MarginPurchaseBuy  融資買進"
-        #     "MarginPurchaseSell  融資賣出"
-        #     "MarginPurchaseTodayBalance  融資餘額"
-        #     "ShortSaleBuy 融卷買進"
-        #     "ShortSaleSell  融卷賣出"
-        #     "ShortSaleTodayBalance 融卷餘額"
-        #     '''
 
         max_buy_sell = max([abs(buy_sell)
                             for buy_sell in filtered_df_investors_buy_sell.Net])
