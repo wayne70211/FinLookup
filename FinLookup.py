@@ -13,20 +13,11 @@ from controller import Controller, open_collapse
 DATA_DIR = './Data/'
 API_TOKEN = ""
 FONT_DIR = './Font/SourceHanSansTW-Regular.otf'
-VALID_USERNAME_PASSWORD_PAIRS = {
-    'user': '88888888'
-}
 
 tw_dict, eng_dict = get_stock_dict()
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 server = app.server
-
-
-# auth = dash_auth.BasicAuth(
-#     app,
-#     VALID_USERNAME_PASSWORD_PAIRS
-# )
 
 # Get Data
 
